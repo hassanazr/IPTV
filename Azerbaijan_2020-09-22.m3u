@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1,GUNAZ TV
 http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed03/chunklist_w1638729810.m3u8
+#EXTINF:-1,aznews
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/chunklist_w750686581_b1364000_sltur.m3u8
+#EXTINF:-1,azstar
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
 #EXTINF:-1,ICTIMAI TV HD
 https://node19.connect.az:8086/ch1/ch1.hi.m3u8
-#EXTINF:-1,BAKU TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1, ARB24
-http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,Medeniyyet
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
 #EXTINF:0,Atv
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:0,Atv-2
@@ -15,11 +17,19 @@ http://85.132.81.184:8080/atv-2/index.m3u8?checkedby_iptvcat.com
 http://85.132.81.184:8080/atv-4/index.m3u8?checkedby_iptvcat.com
 #EXTINF:-1,ARB TV
 http://85.132.81.184:8080/arb/live/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1, Lider
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
 #EXTINF:-1,KAPAZ
-http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby_iptvcat.com
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1,QƏBƏLƏ TV
 https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1,STAR TV SD
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1,KANAL 12 AZ
-http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8
+#EXTINF:-1, ARB24
+http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,eltv
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1,arb
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1,BAKU TV
+

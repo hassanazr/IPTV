@@ -1,10 +1,28 @@
 #EXTM3U
-#EXTINF:-1,Az1
-https://iptvm3ulist.com/m3u/az01_iptvm3ulist_com_081221.m3u
-#EXTINF:-1,Az2
-https://iptvm3ulist.com/m3u/az03_iptvm3ulist_com_081221.m3u
-#EXTINF:-1,Az3
-https://iptvm3ulist.com/m3u/az04_iptvm3ulist_com_081221.m3u
-#EXTINF:-1,Az4
-
-#EXTINF:-1,Az5
+#EXTINF:-1, ARB24
+#EXTGRP: NEWS
+http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
+#EXTINF:0,Atv
+#EXTGRP: SHOW
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby_iptvcat.com
+#EXTINF:0,Atv-2
+#EXTGRP: SHOW
+http://85.132.81.184:8080/atv-2/index.m3u8?checkedby_iptvcat.com
+#EXTINF:0,Atv-4
+#EXTGRP: SHOW
+http://85.132.81.184:8080/atv-4/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,ARB TV
+#EXTGRP: SHOW
+http://85.132.81.184:8080/arb/live/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,KAPAZ
+#EXTGRP: INT
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,QƏBƏLƏ TV
+#EXTGRP: INT
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1,BAKU TV
+#EXTGRP: INT
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1,STAR TV SD
+#EXTGRP: INT
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8

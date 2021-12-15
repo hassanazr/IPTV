@@ -44,3 +44,7 @@ http://www.myvideo.az/channels.aspx?channel=naxtv.m3u8
 http://www.myvideo.az/channels.aspx?channel=mtvazerbaycan.m3u8
 #EXTINF:-1,TMB
 http://www.myvideo.az/channels.aspx?channel=tmbtv.m3u8
+#EXTINF:-1,START
+http://www.myvideo.az/channels.aspx?channel=starttv.m3u8
+#EXTINF:-1,VIP
+http://www.myvideo.az/channels.aspx?channel=vip.m3u8

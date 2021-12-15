@@ -35,4 +35,12 @@ http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:-1,anT  
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8  
 #EXTINF:-1,Az star  
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8 
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1,MədəniyyətTV
+http://www.myvideo.az/channels.aspx?channel=medeniyet.m3u8
+#EXTINF:-1,NAXCIVAN
+http://www.myvideo.az/channels.aspx?channel=naxtv.m3u8
+#EXTINF:-1,MTV
+http://www.myvideo.az/channels.aspx?channel=mtvazerbaycan.m3u8
+#EXTINF:-1,TMB
+http://www.myvideo.az/channels.aspx?channel=tmbtv.m3u8

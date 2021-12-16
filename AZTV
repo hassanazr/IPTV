@@ -1,50 +1,25 @@
 #EXTM3U
-#EXTINF:-1, ARB24
-#EXTGRP: NEWS
-http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
-#EXTINF:0,Atv
-#EXTGRP: SHOW
-http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby_iptvcat.com
-#EXTINF:0,Atv-2
-#EXTGRP: SHOW
-http://85.132.81.184:8080/atv-2/index.m3u8?checkedby_iptvcat.com
-#EXTINF:0,Atv-4
-#EXTGRP: SHOW
-http://85.132.81.184:8080/atv-4/index.m3u8?checkedby_iptvcat.com
-#EXTINF:-1,ARB TV
-#EXTGRP: SHOW
-http://85.132.81.184:8080/arb/live/index.m3u8?checkedby_iptvcat.com
-#EXTINF:-1,KAPAZ
-#EXTGRP: INT
-http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby_iptvcat.com
-#EXTINF:-1,QƏBƏLƏ TV
-#EXTGRP: INT
-https://qebele.tv/live/stream/index.m3u8
-#EXTINF:-1,BAKU TV
-#EXTGRP: INT
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1,STAR TV SD
-#EXTGRP: INT
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1,Medenyet
-https://list.iptvcat.com/my_list/s/4dd94e6e7a9565e7d43b40cf04c7134f.m3u8
-#EXTINF:-1,Muğan TV  
-http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8  
 #EXTINF:-1,Mədəniyyət TV  
 http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8  
-#EXTINF:-1,anT  
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8  
 #EXTINF:-1,Az star  
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1,MədəniyyətTV
-http://myvideo.az/channels.aspx?channel=medeniyet.m3u8
-#EXTINF:-1,NAXCIVAN
-http://www.myvideo.az/channels.aspx?channel=naxtv.m3u8
-#EXTINF:-1,MTV
-http://myvideo.az/channels.aspx?channel=mtvazerbaycan.m3u8
-#EXTINF:-1,TMB
-http://www.myvideo.az/channels.aspx?channel=tmbtv.m3u8
-#EXTINF:-1,START
-http://www.myvideo.az/channels.aspx?channel=starttv.m3u8
-#EXTINF:-1,VIP
-http://www.myvideo.az/channels.aspx?channel=vip.m3u8
+#EXTINF:-1,anT  
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:0,Atv
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby_iptvcat.com
+#EXTINF:0,Atv-2
+http://85.132.81.184:8080/atv-2/index.m3u8?checkedby_iptvcat.com
+#EXTINF:0,Atv-4
+http://85.132.81.184:8080/atv-4/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,ARB TV
+http://85.132.81.184:8080/arb/live/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,KAPAZ
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1,BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1,Muğan TV  
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8  
+#EXTINF:-1, ARB24
+http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com 

@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,GunazTV
-
-#EXTINF:-1,Mədəniyyət TV  
-  
 #EXTINF:-1,Az star  
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
 #EXTINF:-1,anT  
@@ -31,3 +27,8 @@ http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 
 #EXTINF:-1,SahandTV
 https://list.iptvcat.com/my_list/s/f28e1f31e615cfb574b285aec72e5345.m3u8
+
+#EXTINF:-1,GunazTV
+
+#EXTINF:-1,Mədəniyyət TV  
+  

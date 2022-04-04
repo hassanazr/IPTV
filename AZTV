@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,GunazTV
-http://gtv.live.cdn.bitgravity.com/gtv/live/feed02
+
 #EXTINF:-1,Mədəniyyət TV  
-https://list.iptvcat.com/my_list/s/d4b26d695e00a17d2f73eceacaa5fe19.m3u8  
+  
 #EXTINF:-1,Az star  
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
 #EXTINF:-1,anT  
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1,NXCIVAN 
@@ -28,4 +28,6 @@ http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:-1,Muğan TV  
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1,Turan TV
-https://list.iptvcat.com/my_list/s/672b2a520399b73b3e496fc6b444624b.m3u8
+
+#EXTINF:-1,SahandTV
+https://list.iptvcat.com/my_list/s/f28e1f31e615cfb574b285aec72e5345.m3u8

@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0,anT  
+#EXTINF:-1,Az star  
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
+#EXTINF:-1,anT  
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1,NXCIVAN 
 https://list.iptvcat.com/my_list/s/227497dc48b12f6a55ed8364a4574a6b.m3u8
@@ -25,10 +27,6 @@ http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 
 #EXTINF:-1,SahandTV
 https://list.iptvcat.com/my_list/s/f28e1f31e615cfb574b285aec72e5345.m3u8
-
 #EXTINF:-1,GunazTV
 
-#EXTINF:-1,Mədəniyyət TV  
-  
-#EXTINF:-1,Az star  
-http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
+#EXTINF:-1,Mədəniyyət TV

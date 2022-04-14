@@ -3,6 +3,8 @@
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
 #EXTINF:-1,anT  
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1,SesTV
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 #EXTINF:-1,NXCIVAN 
 https://list.iptvcat.com/my_list/s/227497dc48b12f6a55ed8364a4574a6b.m3u8
 #EXTINF:0,Atv
@@ -18,15 +20,16 @@ https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1,BAKU TV
 https://list.iptvcat.com/my_list/s/201f7d7cdb3f39ed96c0e60e6385e5af.m3u8
 #EXTINF:-1,ARB TV
-http://85.132.81.184:8080/arb/live/index.m3u8?checkedby_iptvcat.com
+https://list.iptvcat.com/my_list/s/2966fafe2b4b2d620f41c906581586ba.m3u8
 #EXTINF:-1, ARB24
 http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:-1,Muğan TV  
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1,Turan TV
-
+https://list.iptvcat.com/my_list/s/672b2a520399b73b3e496fc6b444624b.m3u8
 #EXTINF:-1,SahandTV
 https://list.iptvcat.com/my_list/s/f28e1f31e615cfb574b285aec72e5345.m3u8
+#EXTINF:-1,ELTV
+https://list.iptvcat.com/my_list/s/a6418f7d335a98eb9e84ca86839ae7a1.m3u8
 #EXTINF:-1,GunazTV
-
 #EXTINF:-1,Mədəniyyət TV

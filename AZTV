@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Az star  
-http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
 #EXTINF:-1,anT  
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1,SesTV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
-#EXTINF:-1,NXCIVAN 
-https://list.iptvcat.com/my_list/s/227497dc48b12f6a55ed8364a4574a6b.m3u8
 #EXTINF:0,Atv
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:0,Atv-2
@@ -27,11 +23,10 @@ http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1,Turan TV
 https://list.iptvcat.com/my_list/s/672b2a520399b73b3e496fc6b444624b.m3u8
-#EXTINF:-1,SahandTV
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/64954
 #EXTINF:-1,ELTV
-https://list.iptvcat.com/my_list/s/a6418f7d335a98eb9e84ca86839ae7a1.m3u8
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:-1,GunazTV
 #EXTINF:-1,Mədəniyyət TV
-#EXTINF:-1,azQerb TV
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285258
+#EXTINF:-1,Az star  
+#EXTINF:-1,SahandTV
+#EXTINF:-1,NXCIVAN 

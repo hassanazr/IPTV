@@ -31,19 +31,18 @@ https://qebele.tv/live/stream/index.m3u8
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1,ELTV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
-#EXTINF:-1, ARB24
+#EXTINF:-1,ARB24
 http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:-1, RealTV
 http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/52286
 #EXTINF:-1,SesTV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
-
 #EXTINF:-1,BAKU TV
-
+https://list.iptvcat.com/my_list/s/201f7d7cdb3f39ed96c0e60e6385e5af.m3u8
 #EXTINF:-1,Turan TV
-
+https://list.iptvcat.com/my_list/s/672b2a520399b73b3e496fc6b444624b.m3u8
+#EXTINF:-1,NXCIVAN
+https://list.iptvcat.com/my_list/s/227497dc48b12f6a55ed8364a4574a6b.m3u8
 #EXTINF:-1,GunazTV
  
 #EXTINF:-1,SahandTV
-
-#EXTINF:-1,NXCIVAN 

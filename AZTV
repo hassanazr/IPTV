@@ -3,26 +3,12 @@
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1,Az star 2
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1,Mədəniyyət TV
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/51284
-#EXTINF:-1,AzTV
-https://list.iptvcat.com/my_list/s/c36c18d378d4ce2b89a7504cde66063d.m3u8
-#EXTINF:-1,IctimaiTV
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/51289
-#EXTINF:0,Atv
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/51278
-#EXTINF:-1,XezerTV
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/51288
-#EXTINF:0,SpaceTV
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/51287
 #EXTINF:0,Atv
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:0,Atv-2
 http://85.132.81.184:8080/atv-2/index.m3u8?checkedby_iptvcat.com
 #EXTINF:0,Atv-4
 http://85.132.81.184:8080/atv-4/index.m3u8?checkedby_iptvcat.com
-#EXTINF:-1,ARB TV
-https://list.iptvcat.com/my_list/s/2966fafe2b4b2d620f41c906581586ba.m3u8
 #EXTINF:-1,KAPAZ
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1,Qebele
@@ -33,16 +19,26 @@ http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:-1,ARB24
 http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
-#EXTINF:-1, RealTV
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/52286
 #EXTINF:-1,SesTV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 #EXTINF:-1,BAKU TV
-https://list.iptvcat.com/my_list/s/201f7d7cdb3f39ed96c0e60e6385e5af.m3u8
+
 #EXTINF:-1,Turan TV
-https://list.iptvcat.com/my_list/s/672b2a520399b73b3e496fc6b444624b.m3u8
+
 #EXTINF:-1,NXCIVAN
-https://list.iptvcat.com/my_list/s/227497dc48b12f6a55ed8364a4574a6b.m3u8
+
 #EXTINF:-1,GunazTV
- 
+#EXTINF:-1,Mədəniyyət TV
+
+#EXTINF:-1,AzTV
+
+#EXTINF:-1,IctimaiTV
+
+#EXTINF:0,Atv
+
+#EXTINF:-1,XezerTV
+
+#EXTINF:0,SpaceTV
+
 #EXTINF:-1,SahandTV
+#EXTINF:-1,ARB TV

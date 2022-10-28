@@ -35,8 +35,9 @@ http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvc
 #EXTINF:-1,AzTV
 
 #EXTINF:-1,IctimaiTV
-
-#EXTINF:0,Atv
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:0,IC
+https://list.iptvcat.com/my_list/s/7a45a0e49144336a649a0e68219e5ee1.m3u8
 
 #EXTINF:-1,XezerTV
 
@@ -44,3 +45,5 @@ http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvc
 
 #EXTINF:-1,SahandTV
 #EXTINF:-1,ARB TV
+
+

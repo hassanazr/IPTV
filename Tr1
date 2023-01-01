@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TRT1
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/3334
 #EXTINF:-1,TRT1 HD+  
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4774
 #EXTINF:-1,Show Tv HD+
@@ -9,8 +7,6 @@ http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4776
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4768
 #EXTINF:-1,Atv HD+
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4769
-#EXTINF:-1,TRT1
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/3334
 #EXTINF:-1,Star Tv HD+
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4775
 #EXTINF:-1,Fox tv HD+

@@ -27,25 +27,38 @@ http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvc
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,TRT AVAZ 2
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
-#EXTINF:-1,Turan TV
-
-#EXTINF:-1,NXCIVAN
-
-#EXTINF:-1,GunazTV
-#EXTINF:-1,Mədəniyyət TV
-
-#EXTINF:-1,AzTV
-
 #EXTINF:-1,IctimaiTV
 http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
 #EXTINF:0,IC
 https://list.iptvcat.com/my_list/s/7a45a0e49144336a649a0e68219e5ee1.m3u8
-
-#EXTINF:-1,XezerTV
-
-#EXTINF:0,SpaceTV
-
-#EXTINF:-1,SahandTV
-#EXTINF:-1,ARB TV
-
-
+#EXTINF:-1,AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-1,XEZER
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-1,IcTV
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-1,Medeniyet
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-1,ANTV
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1,AzStar
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1,Naxivan
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:-1,Turan
+https://donvolga.com/Turan-TV/video.m3u8
+#EXTINF:-1,ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1,ATV-2
+#EXTINF:-1,ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1,ATV-4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1,Duya
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-1,MUZ
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-1,TRT1
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-1,Live
+http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8

@@ -25,3 +25,5 @@ http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:-1,SahandTV
 http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Mincechevir
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645379

@@ -1,5 +1,30 @@
-ext,TRT AVAZ,https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
-ext,IctimaiTV,http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
-ext,AzTV,http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-ext,XEZER,http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd?checkedby:iptvcat.net
-ext,Medeniyet,http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTM3U
+#EXTINF:-0,TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,IctimaiTV
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-0,AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-0,XEZER
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-0,Medeniyet
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-0,ANTV
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-0,AzStar
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-0,Turan
+https://donvolga.com/Turan-TV/video.m3u8
+#EXTINF:-0,ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-0,ATV-2
+#EXTINF:-0,ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-0,ATV-4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-0,Duya
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-0,MUZ
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:-0,TRT1
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.net

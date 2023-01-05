@@ -1,5 +1,1695 @@
-ext,#EXTM3U,TRT AVAZ
-ext,https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com,IctimaiTV
-ext,http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd,AzTV
-ext,http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:iptvcat.net,XEZER
-ext,http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd?checkedby:iptvcat.net,Medeniyet
+#EXTM3U
+#EXTINF:0 tvg-id="aztv" group-title="Aze Turk Rus Tvleri",AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Kanal S ARB
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",ATV CANLI
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",ATV 2SAAT GERI
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",ATV 4SAAT GERI
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Xəzər
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="Space.br" group-title="Aze Turk Rus Tvleri",Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",CBC SPORT HD
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="Idman.az" group-title="Aze Turk Rus Tvleri",Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="muz-tv" group-title="Aze Turk Rus Tvleri",MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Fortuna tv Aze
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Fashion Azerbaycan
+https://api.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=238d76295355e6cfa414012b9ad66a6cf31f2cb0-92d0473875e748120f6840e1b2eb6591-1672067540-1672056740
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Sehiye tv
+https://api.canlitvplayer.com/str.yodacdn.net/shtv/mono.m3u8?token=1ded4fbebb87d2012281a75a421216d2fd4f7477-117d2a016c8dccf6ec0cfaa5cc00829d-1671902726-1671891926
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Live Aze tv
+http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Qafqaz tv
+http://api.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Ser tv
+http://91.134.203.253:30124/sertv/sertv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",AN.T HD
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Səhər TV aze
+http://185.236.229.31:9981/play/a02l
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",AZE STAR TV
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",AZE K12
+http://waw2.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",QƏBƏLƏ TV TEST YAYIN
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Baku.TV
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",naxcivan tv HD
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",mingeçevir tv
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w173010177.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Muğan TV (1080p) [Not 24/7]
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Turan TV
+https://donvolga.com/Turan-TV/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",HADI TV AZE
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",interaz
+http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Zəhra TV (azərbaycanca)
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Yevlax TV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",SES TV AZE
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",VOSTOK AZE
+http://topchantv.net:3456/live/cdn_Top/PPEIyMvacU/489.m3u8
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Aze Turk Rus Tvleri",Kanal D
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ATV.tr" group-title="Aze Turk Rus Tvleri",ATV TURK
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Aze Turk Rus Tvleri",Show
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="star.gr" group-title="Aze Turk Rus Tvleri",Star
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Aze Turk Rus Tvleri",Kanal 7
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Aze Turk Rus Tvleri",DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Aze Turk Rus Tvleri",HABERTÜRK
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",AKILLI TV
+http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Aze Turk Rus Tvleri",A Spor
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="AHaber.tr" group-title="Aze Turk Rus Tvleri",A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="MinikaCocuk.tr" group-title="Aze Turk Rus Tvleri",Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="Aze Turk Rus Tvleri",Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ntv" group-title="Aze Turk Rus Tvleri",NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",TMB TV
+http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Aze Turk Rus Tvleri",TRT 1
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Aze Turk Rus Tvleri",TRT Belgesel
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Aze Turk Rus Tvleri",TRT Cocuk
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Aze Turk Rus Tvleri",TRT Haber
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Aze Turk Rus Tvleri",TRT World
+http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="tv8-lt" group-title="Aze Turk Rus Tvleri",TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TV85.tr" group-title="Aze Turk Rus Tvleri",TV 8.5
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Teve 2
+http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Aze Turk Rus Tvleri",POWERTURK
+http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="animal_rus" group-title="Aze Turk Rus Tvleri",Animal Planet
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="id-extra" group-title="Aze Turk Rus Tvleri",Investigation Discovery
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="natgeowild" group-title="Aze Turk Rus Tvleri",Nat Geo Wild
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="natgeo" group-title="Aze Turk Rus Tvleri",National Geographic Channel
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="Aze Turk Rus Tvleri",Охота и Рыбалка
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Aze Turk Rus Tvleri",Da Vinci Learning
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="viasat-nature" group-title="Aze Turk Rus Tvleri",Viasat Nature
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ocean" group-title="Aze Turk Rus Tvleri",OCEAN TV
+http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="mgm-int" group-title="Aze Turk Rus Tvleri",AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="amedia1" group-title="Aze Turk Rus Tvleri",Amedia 1
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="amedia-hit" group-title="Aze Turk Rus Tvleri",Amedia Hit
+http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="park-razvlecheniy" group-title="Aze Turk Rus Tvleri",CINEMA
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="tv1000" group-title="Aze Turk Rus Tvleri",TV1000
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="domkino-prem" group-title="Aze Turk Rus Tvleri",Дом Кино Премиум
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Aze Turk Rus Tvleri",КИНОПРЕМЬЕРА
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Aze Turk Rus Tvleri",КИНОСВИДАНИЕ
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="evrokino" group-title="Aze Turk Rus Tvleri",Еврокино
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="kino-plus" group-title="Aze Turk Rus Tvleri",КИНОМИКС
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="indiya" group-title="Aze Turk Rus Tvleri",Индийское Кино
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="mnogo-tv" group-title="Aze Turk Rus Tvleri",КИНОСЕРИЯ
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="kinohit" group-title="Aze Turk Rus Tvleri",КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="kinokomediya" group-title="Aze Turk Rus Tvleri",Кинокомедия
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="man-kino" group-title="Aze Turk Rus Tvleri",Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="nashe-novoe" group-title="Aze Turk Rus Tvleri",НАШЕ НОВОЕ КИНО
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="Aze Turk Rus Tvleri",РОДНОЕ КИНО
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Aze Turk Rus Tvleri",Любимое Кино
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="mir-seriala" group-title="Aze Turk Rus Tvleri",Мир Сериала
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:0 tvg-id="film-box" group-title="Aze Turk Rus Tvleri",FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",РЕН ТВ International
+https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:0 tvg-id="avto-plus" group-title="Aze Turk Rus Tvleri",Авто Плюс
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="home" group-title="Aze Turk Rus Tvleri",Домашний
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="vh1-europe" group-title="Aze Turk Rus Tvleri",VH1 EUROPE
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="mult" group-title="Aze Turk Rus Tvleri",Мульт
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="karusel" group-title="Aze Turk Rus Tvleri",Карусель
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="det" group-title="Aze Turk Rus Tvleri",Детский Мир
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="tiji" group-title="Aze Turk Rus Tvleri",Tiji
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="mir24" group-title="Aze Turk Rus Tvleri",МИР 24
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="mir" group-title="Aze Turk Rus Tvleri",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-id="axn" group-title="Aze Turk Rus Tvleri",Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ani" group-title="Aze Turk Rus Tvleri",Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="dange" group-title="Aze Turk Rus Tvleri",BRIDGE TV Dance
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="5kanal" group-title="Aze Turk Rus Tvleri",5 канал
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",Первый Музыкальный 4K
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:0 tvg-id="shansontv" group-title="Aze Turk Rus Tvleri",Шансон
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bloomberg" group-title="Aze Turk Rus Tvleri",Bloomberg
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ort" group-title="Aze Turk Rus Tvleri",Первый Канал
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Aze Turk Rus Tvleri",t.me/tvlab MGM
+http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="kuhnya" group-title="Aze Turk Rus Tvleri",Кухня ТВ
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="euro" group-title="Aze Turk Rus Tvleri",Евроновости
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="kultura" group-title="Aze Turk Rus Tvleri",Россия Культура
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="europa-plus" group-title="Aze Turk Rus Tvleri",Европа Плюс
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="zhara" group-title="Aze Turk Rus Tvleri",Жара
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="zagorzhizn" group-title="Aze Turk Rus Tvleri",Загородная жизнь
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="sts-love" group-title="Aze Turk Rus Tvleri",СТС love
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="nostalgia" group-title="Aze Turk Rus Tvleri",Ностальгия
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-id="ext" group-title="Aze kino tvler",K-TV AZE
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze kino tvler",Live tv aze HD
+http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze kino tvler",ser tv aze
+http://91.134.203.253:30124/sertv/sertv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aze kino tvler",EL TV aze
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+
+#EXTINF:0 tvg-id="evrokino" group-title="Rusia film tvleri",Еврокино
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="domkino-prem" group-title="Rusia film tvleri",Дом Кино Премиум
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="indiya" group-title="Rusia film tvleri",Индийское Кино
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="kino-plus" group-title="Rusia film tvleri",КИНОМИКС
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="mnogo-tv" group-title="Rusia film tvleri",КИНОСЕРИЯ
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="kinohit" group-title="Rusia film tvleri",КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="kinokomediya" group-title="Rusia film tvleri",Кинокомедия
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Rusia film tvleri",Любимое Кино
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="man-kino" group-title="Rusia film tvleri",Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="Rusia film tvleri",РОДНОЕ КИНО
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="TR BEIN SPORT",Bein Sport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPORT",Bein Sport 1+ HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5104?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="TR BEIN SPORT",Bein Sport 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPORT",Bein Sport 2+ HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="TR BEIN SPORT",Bein Sport 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPORT",Bein Sport 3+ HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="TR BEIN SPORT",Bein Sport 4 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sport1_rus" group-title="TR BEIN SPORT",Матч! Арена SD
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPORT",CBC SPORT SD
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="Tivibu spor",Tivibu Spor 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="Tivibu spor",Tivibu Spor  2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Tivibu spor",Tivibu  Spor 2+
+http://red.ipfox.org:8080/Karam2022/Karam2023/2820?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="Tivibu spor",Tivibu  Spor 3
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4757?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Spor tvleri",bein xtra SD
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Spor tvleri",bein xtra HD
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Spor tvleri",Turkmen Спорт
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Spor tvleri",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Spor tvleri",idman aze
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Spor tvleri",TRT Spor YILDIZ HD
+http://iptvsmarters.icu:25461/deneme123/deneme321/27567
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Spor tvleri",A SPOR
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Spor tvleri",TRT SPOR HD
+http://mfe01.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd?3
+#EXTINF:0 tvg-id="ext" group-title="Spor tvleri",Bein Sport Haber HD
+http://iptvsmarters.icu:25461/deneme123/deneme321/30168
+#EXTINF:0 tvg-id="boec" group-title="Spor tvleri",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-id="ext" group-title="Rusia Sports",Матч! Бoks
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Rusia Sports",Матч! arena
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sport-plus" group-title="Rusia Sports",Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rusia Sports",1+1 Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rusia Sports",FIGHT SPORTS (1080p)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:0 tvg-id="dange" group-title="Rusia Klip tvleri",BRIDGE TV Dance
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="shansontv" group-title="Rusia Klip tvleri",Шансон
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="europa-plus" group-title="Rusia Klip tvleri",Европа Плюс
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Rusia Klip tvleri",Первый Музыкальный 4K
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:0 tvg-id="wild-hd" group-title="RUS TVLER HD",NAT GEO WILD  HD
+http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="RUS TVLER HD",NTV HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUS TVLER HD",VMESTERF HD
+https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUS TVLER HD",ZVEZDA HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="amedia1" group-title="RUS TVLER HD",A1 HD
+http://mfe02.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:0 tvg-id="A2.tr" group-title="RUS TVLER HD",A2 HD
+https://sc.id-tv.kz/A2_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUS TVLER HD",ROSSIYA 1 HD
+http://212.95.49.209:8081/andr/rossiya1.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUS TVLER HD",KRASNAYA HD
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUS TVLER HD",REN TV HD
+http://212.95.49.209:8081/andr/rentv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUS TVLER HD",DAVINCI HD
+http://mfe01.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+
+#EXTINF:0 tvg-id="YabanTV.tr" group-title="Belgesel tvleri",Yaban tv
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgesel tvleri",DMAX TV
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Belgesel tvleri",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Belgesel tvleri",TRT belgesel SD
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Belgesel tvleri",NAT Geo turkce
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="xeber tvleri",TRT haber
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="xeber tvleri",ARB Xeber
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="AHaber.tr" group-title="xeber tvleri",A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="xeber tvleri",Belarus 24 4K
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:0 tvg-id="bbc-world" group-title="xeber tvleri",BBC World News
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-id="ext" group-title="Klip tvleri",Kral Pop HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3803?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="KralTV.tu" group-title="Klip tvleri",Kral TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Klip tvleri",NR 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2045?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Klip tvleri",NUMBER 1 TURK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Klip tvleri",POWER TURK HD
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Magic.uk" group-title="Klip tvleri",MAGIC TV
+https://itv.streams.ovh/magictv/magictv/chunklist_w587370913.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Fashion TVler",Fashion TV 1
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Fashion TVler",Fashion TV 2
+https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Fashion TVler",Fashion TV 3
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Cizgi film tvler",Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MinikaCocuk.tr" group-title="Cizgi film tvler",Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="Cizgi film tvler",Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Cizgi film tvler",TRT Cocuk
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="mult" group-title="Cizgi film tvler",Мульт
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-id="ext" group-title="TURKMENISTAN TVLERI",Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TURKMENISTAN TVLERI",Turkmen СпортTürkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TURKMENISTAN TVLERI",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TURKMENISTAN TVLERI",MIRAS TV
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="TURKMENISTAN TVLERI",Aşgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="astana" group-title="Qazaqstan tvler",Астана
+https://sc.id-tv.kz/Astana.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qazaqstan tvler",Qazaqstan TV
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:0 tvg-id="ktk" group-title="Qazaqstan tvler",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qazaqstan tvler",Туран ТВ
+https://sc.id-tv.kz/TuranTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qazaqstan tvler",Той Думан
+https://sc.id-tv.kz/ToiDuman.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="iran tvleri",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="iran tvleri",Parnian TV
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="iran tvleri",FARS (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="iran tvleri",Diyar TV
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="iran tvleri",PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="italia tvler",Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="italia tvler",Cinema Segreto
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="RaiNews.it" group-title="italia tvler",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="italia tvler",TELE TV
+https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="italia tvler",Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:0 tvg-id="MBC2.net" group-title="MBC GRUP",MBC 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC3.net" group-title="MBC GRUP",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="MBC GRUP",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC GRUP",MBC DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="MBC GRUP",MBC PLUS DRAMA
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="4K TVLER",CLARITY 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="4K TVLER",Quietude 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="love-nature-4k" group-title="4K TVLER",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="netflix online tv",netflix online 1
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="netflix online tv",netflix online 2
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="netflix online tv",netflix online 3
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="netflix online tv",netflix online 4
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="netflix online tv",netflix online 5
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",My Sports TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBA.blt" group-title="Sport",NBA TV HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Premium+ Sports
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/112795?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Sport",SPORTS TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",24 Haber HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/584?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",24 Haber HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13899?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="news24" group-title="Turkiye Yedek",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="news24" group-title="Turkiye Yedek",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",24 TV HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="podmoskovie" group-title="Turkiye Yedek",360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",38 KENT TV
+https://waw2.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",7 TV
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AHaber.tr" group-title="Turkiye Yedek",A Haber HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AHaber.tr" group-title="Turkiye Yedek",A Haber HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5228?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",A Para HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/14218?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",A2 Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6314?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AA Live
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AA Live (720p) [Not 24/7]
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="avi" group-title="Turkiye Yedek",ABB Web TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/ankarawebtv/live&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AKIT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AKIT TV HD
+http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AKSU TV
+http://yerelmedya.tv:1935/aksutv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AKSU TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AKTUEL MUZIK TV
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ALANYA ATV
+https://broadcasttr.com:446/alanyatv/bant1/chunklist_w17033747.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ART Amasya
+https://59cba4d34b678.streamlock.net/canlitv/arttv/HasBahCa_w1071760387.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ART TV AMASYA
+https://59cba4d34b678.streamlock.net/canlitv/arttv/chunklist_w1727396284.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",AS TV
+http://yerelmedya.tv:1935/astv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ATV Alanya
+http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Ada Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/14657?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Agro TV Türkiye
+https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Akit TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Akit Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7001?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Aktüel Bursa TV
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Akıllı Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6786?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Al Zahra TVAl-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Alanya Posta TV
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Alanya Posta TV
+http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Alanya Posta TV
+http://win4.yayin.com.tr/postatv/postatv/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Altaş Tv Ordu
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13945?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Anadolu Dernek Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116742?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Anadolu RTV
+https://broadcasttr.com:446/anadolurtv/bant1/chunklist_w827437696.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Anadolu RTV
+https://broadcasttr.com:446/anadolurtv/bant1/HasBahCa_w827437696.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Angara TV - Keçiören Belediyesi
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Artı Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3254?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="atameken" group-title="Turkiye Yedek",Atameken Business Channel
+http://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ATV.am" group-title="Turkiye Yedek",Atv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4800?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ATV.tr" group-title="Turkiye Yedek",Atv Avrupa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7081?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ATV.am" group-title="Turkiye Yedek",Atv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/52?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ATV.am" group-title="Turkiye Yedek",Atv HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4769?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Azad Atv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3615?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BAKU TV AZ
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Salon2.tr" group-title="Turkiye Yedek",BEIN BOX OFFICE 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044242?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Salon3.tr" group-title="Turkiye Yedek",BEIN BOX OFFICE 3
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044243?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BEIN BOX OFFICE TURK
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044244?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TurkmaxGurme.tr" group-title="Turkiye Yedek",BEIN GURME
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044245?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BEIN IZ TV
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044246?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="Turkiye Yedek",BEIN MOVIES ACTION
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044247?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="Turkiye Yedek",BEIN MOVIES ACTION 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044248?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="Turkiye Yedek",BEIN MOVIES FAMILY
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044249?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="Turkiye Yedek",BEIN MOVIES PREMIER
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044250?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MoviemaxPremier2.tr" group-title="Turkiye Yedek",BEIN MOVIES PREMIER 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044251?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MoviemaxTurk.tr" group-title="Turkiye Yedek",BEIN MOVIES TURK
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044253?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DizimaxComedy.tr" group-title="Turkiye Yedek",BEIN SERIES COMEDY
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044254?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DizimaxDrama.tr" group-title="Turkiye Yedek",BEIN SERIES DRAMA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044255?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DizimaxSci-fi.tr" group-title="Turkiye Yedek",BEIN SERIES SCI-FI
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044256?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DizimaxVice.tr" group-title="Turkiye Yedek",BEIN SERIES VICE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044257?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BENGÜTÜRK TV [HD]
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Turkiye Yedek",BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Turkiye Yedek",BEYAZ TV [HD]
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Turkiye Yedek",BLOOMBERG HT [HD]
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BOLU ABANT TV
+http://yerelmedya.tv:1935/abanttv/bant1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BOX 247 TV
+https://hls.247box.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BRT 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/14659?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BRTV
+https://waw2.artiyerelmedya.net/brtv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BRTV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BURSA ON6 TV
+http://yerelmedya.tv:1935/kanal16/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BUSiNESS CHANNEL TURK HD
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist_w1503180666.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Bartın TV
+http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/HasBahCa_w896416726.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Beach Coast TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbeachtveastcoast/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Bengütürk
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2525?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Berat TV
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Berat TV
+https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Turkiye Yedek",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Turkiye Yedek",Beyaz Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/67?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Turkiye Yedek",Beyaz Tv HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5223?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Beykent Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116750?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Beşiktaş Web TV
+https://s01.vpis.io/besiktas/besiktas.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Beşiktaş Web TV
+http://s01.vpis.io/besiktas/besiktas.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",BiZiM EV TV
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Biz Cinema
+https://st.biztv.uz/hls/c_hi/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Biz TV
+https://st.biztv.uz/hls/stream_hi/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Turkiye Yedek",Bloomberg HT
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Turkiye Yedek",Bloomberg HT
+http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Turkiye Yedek",Bloomberg HT HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1083?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Brt 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9800?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Bursa TV
+http://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Bursa TV
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/chunklist_w1083929057.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Bursa Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13912?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="cbc" group-title="Turkiye Yedek",CBC
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/25877?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",CLARITY 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Turkiye Yedek",CNN Turk HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/60?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Turkiye Yedek",CNN Türk HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5105?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Camia TV
+https://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Can TV
+http://canbroadcast.com:7000/canlican/tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Can TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13682?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Cekmeköy TV (1080p)
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Cekmeköy TV (1080p)
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CemTv.tr" group-title="Turkiye Yedek",Cem Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1922?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",CiFTCi TV
+http://yerelmedya.tv:1935/ciftcitv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",D MAX FHD
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DEHA TV
+https://waw2.artiyerelmedya.net/dehatv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DEHA TV
+http://yerelmedya.tv:1935/dehatv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DENiZ POSTASI TV
+http://yerelmedya.tv:1935/denizpostasitv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DENİZ POSTASI TV
+https://waw2.artiyerelmedya.net/denizpostasitv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DMAX.it" group-title="Turkiye Yedek",DMAX HD
+http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DOST HD TV
+https://dost.stream.emsal.im/tv/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DreamTurk.tr" group-title="Turkiye Yedek",DREAM TURK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Daystar Television
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastdaystar/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Deha TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116749?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Deha TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Deniz Postası TV (720p) [Not 24/7]
+http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Deni̇z Postasi TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DiM TV ALANYA
+http://yerelmedya.tv:1935/dimtv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DiYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DiYANET TV HD
+https://mn-nl.mncdn.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DiYAR TV
+http://yerelmedya.tv:1935/diyartv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Dost Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4727?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Dream TV Uganada
+http://128.199.114.2:8080/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DreamTurk.tr" group-title="Turkiye Yedek",Dream Türk
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Dünya Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4797?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Düzce TV
+https://59cba4d34b678.streamlock.net/canlitv/duzcetv/HasBahCa_w1290797849.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",DİM TV
+https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",EBA TV Lise
+https://mn-nl.mncdn.com/blutv_ebal2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",EBA TV Ortaokul
+https://mn-nl.mncdn.com/blutv_ebao2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",EBA TV İlkokul
+https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",EBA TV İlkokul
+https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",EKOTURK FHD
+https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ER TV
+https://waw2.artiyerelmedya.net/ertv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ERBAA RTV
+https://59cba4d34b678.streamlock.net/canlitv/erttv/chunklist_w2051378804.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ERT TV
+https://59cba4d34b678.streamlock.net/canlitv/erttv/HasBahCa_w2051378804.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ERT ŞAH TV
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ERT Şah TV Erzincan
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ES TV EskiSehir
+http://yerelmedya.tv:1935/estv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ETV KAYSERi
+http://yerelmedya.tv:1935/etv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ETV Kayseri
+http://yerelmedya.tv:1935/etv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ETV MANİSA TV
+https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ETV Manisa
+http://broadcasttr.com:1935/manisaetv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="EuroD.tr" group-title="Turkiye Yedek",EURO D YEDEK
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Ege Türk Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13901?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Ekin Türk
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3255?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Em TV
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Er TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Ert Sah TV (720p) [Not 24/7]
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Es Tv Eskişehir
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13906?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Esenler Şehir Ekranı
+https://yayin30.haber100.com/live/sehirekrani/HasBahCa_w1128481069.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Euro Star
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",FASHION 4K
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",FM Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116748?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",FX PERSIAN
+http://51.210.199.52/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Faith USA
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfaithusa/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Fashion TV Paris
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfashiontvparis/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="fashion" group-title="Turkiye Yedek",FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Finest TV
+http://media.finest.tv/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FlashTV.tr" group-title="Turkiye Yedek",Flash TV
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FlashTV.tr" group-title="Turkiye Yedek",Flash TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/134611?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Fora Müzik
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/151494?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Fortuna TV
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Fox.tr" group-title="Turkiye Yedek",Fox Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/55?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Fox.hr" group-title="Turkiye Yedek",Fox tv HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/55635?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GAZiANTEP OLAY TV
+http://yerelmedya.tv:1935/olaytv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w1467262774.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GRT
+https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GRT GAZiANTEP TV
+http://yerelmedya.tv:1935/grt/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GRT Gaziantep
+http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GRT Gaziantep
+https://waw1.artiyerelmedya.net/grt/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GRT Gaziantep (720p)
+http://yerelmedya.tv:1935/grt/_definst_/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GSTV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GUNEY TV TARSUS
+http://yerelmedya.tv:1935/guneytv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",GURBET 24 TV
+http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Gaziantep Olay TV
+http://yerelmedya.tv:1935/olaytv/_definst_/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Gaziantep Olay TV
+http://yerelmedya.tv:1935/olaytv/_definst_/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Global Fashion Television
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Gurbet 24 Erzincan
+http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Güneydoğu Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116747?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",HABER 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",HABER GLOBAL [HD]
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Turkiye Yedek",HABERTÜRK [HD]
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Turkiye Yedek",HALK TV FHD
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Turkiye Yedek",HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",HRT Akdeniz Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13941?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",HUNAT TV
+https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",HUNAT TV KAYSERi
+http://yerelmedya.tv:1935/hunattv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Haber 61
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Haber 61
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Haber 61
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116751?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Haber 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Haber Global HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/20561?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Turkiye Yedek",Habertürk HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/516?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Turkiye Yedek",Habertürk HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4771?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Turkiye Yedek",Halk Tv
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Turkiye Yedek",Halk Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1971?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",I FILM IRAN
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",IBB TV
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/chunklist_w296059271.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",IBB TV
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",IBB TV (1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",IBB TV (1080p) [Not 24/7]
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",ICEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",IRAN INT
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Icel TV
+https://broadcasttr.com:446/iceltv/bant1/chunklist_w1752343703.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Icel TV (720p) [Not 24/7]
+https://broadcasttr.com:446/iceltv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Icel TV (720p) [Not 24/7]
+https://broadcasttr.com:446/iceltv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Ictimaitv.az" group-title="Turkiye Yedek",Ictimai TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4798?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="impact" group-title="Turkiye Yedek",Impact TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastimpacttv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal12.ee" group-title="Turkiye Yedek",KANAL 12
+https://waw1.artiyerelmedya.net/kanal12/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 12 TV
+http://yerelmedya.tv:1935/kanal12/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 15
+http://yerelmedya.tv:1935/kanal15/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 15
+https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 23
+http://yerelmedya.tv:1935/kanal23/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 23
+https://waw2.artiyerelmedya.net/kanal23/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 26
+http://yerelmedya.tv:1935/kanal26/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 26
+https://waw2.artiyerelmedya.net/kanal26/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal3.bg" group-title="Turkiye Yedek",KANAL 3
+https://waw2.artiyerelmedya.net/kanal3/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 33 alt.
+http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 38
+https://59cba4d34b678.streamlock.net/live/kanal38/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 42 KONYA
+http://iptvmasterlink.dyndns.org:8080/Kanal42/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 65
+http://yerelmedya.tv:1935/kanal65/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 68
+http://yerelmedya.tv:1935/kanal68/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL 68
+https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Turkiye Yedek",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL B HD
+https://mn-nl.mncdn.com/blutv_kanalb2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL FIRAT
+http://yerelmedya.tv:1935/kanalfirat/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL FIRAT
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL V
+http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL V VIP Antalya
+http://yerelmedya.tv:1935/kanalv/bant1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL Z
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KANAL Z
+http://yerelmedya.tv:1935/kanalz/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KARDELEN TV
+http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KAY TV
+https://waw2.artiyerelmedya.net/kaytv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KAY TV
+http://yerelmedya.tv:1935/kaytv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KIBRIS GENC TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w2088961259.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KON TV HD YEDEK
+https://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KRAL POP TV HD
+http://dygvideo.dygdigital.com/live/hls/kralpop?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",KRAL TV  HD
+http://dygvideo.dygdigital.com/live/hls/kraltv?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="KralTV.tu" group-title="Turkiye Yedek",KRAL TV  YEDEK
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 23
+http://yerelmedya.tv:1935/kanal23/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 23
+https://cdn13-kanal23.yayin.com.tr/kanal23/kanal23/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 26
+http://yerelmedya.tv:1935/kanal26/_definst_/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 26 Eskişehir
+http://yerelmedya.tv:1935/kanal26/_definst_/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal3.bg" group-title="Turkiye Yedek",Kanal 3 (720p)
+http://stream.taksimbilisim.com:1935/kanal3/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 3 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 3 Isparta
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13921?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 32 (480p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 33 (720p) [Not 24/7]
+https://broadcasttr.com:446/kanal33/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 33 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 33 Mersin
+http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 38 (576p)
+http://yayin3.canlitv.com:1935/live/kanal38/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 42
+http://iptvmasterlink.dyndns.org:8080/Kanal42/tracks-v1a1/index.m3u8?HasBahCa.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 43 Kütahya
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13944?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 58
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/76178?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 68
+https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?hash=3e0bbf2c55e462f4edf05c003ecdfcb6&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal 68 Aksaray
+http://waw1.artiyerelmedya.net:1935/kanal68/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Turkiye Yedek",Kanal 7 Avrupa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2586?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Turkiye Yedek",Kanal 7 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/58?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Turkiye Yedek",Kanal 7 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5106?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal Avrupa
+http://51.15.2.151/hls/kanalavrupa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal Avrupa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2785?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="KanalB.tr" group-title="Turkiye Yedek",Kanal B
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7047?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal D Avrupa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7080?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Turkiye Yedek",Kanal D HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/54?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Turkiye Yedek",Kanal D HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4768?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal Fırat Elazığ
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13935?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal Urfa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13936?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal V (720p)
+http://yerelmedya.tv:1935/kanalv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye Yedek",Kanal V Antalya
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13931?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kanal Z
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kardelen TV
+http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8?HasBahCa.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kayseri Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9127?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kent Türk
+http://waw1.artiyerelmedya.net:1935/38kenttv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kon Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1928?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kral Pop HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3803?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="KralPop.tr" group-title="Turkiye SD HD FHD yedek",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="KralTV.tu" group-title="Turkiye SD HD FHD yedek",Kral TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kral Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2758?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Krt Kultur Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13461?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kudüs TV
+https://yayin30.haber100.com/live/kudustv/chunklist_w1507895771.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kudüs Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13902?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kuwait One
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Kıbrıs Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6284?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",LALEGÜL TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",LALEGÜL TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",LINE TV
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="love-nature-4k" group-title="Turkiye SD HD FHD yedek",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Lalegül Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2601?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",LiFE TV HD TR
+http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Line TV
+https://broadcasttr.com:446/linetv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Local Now WILD WEST
+https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",M6 INT FHD
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Magic.uk" group-title="Turkiye SD HD FHD yedek",MAGIC TV
+https://itv.streams.ovh/magictv/magictv/chunklist_w587370913.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MAVIKARADENIZ
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MAVİ KARADENİZ
+https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MBC 2MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBC3.net" group-title="Turkiye SD HD FHD yedek",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Turkiye SD HD FHD yedek",MBC DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MERCAN TV
+http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MERCAN TV
+https://waw2.artiyerelmedya.net/mercantv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MIXM TV HD
+http://89.179.247.144/mixm.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="avi" group-title="Turkiye SD HD FHD yedek",MPL TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTr00Butm_gEZmbUz_KI9gg&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MSBC Kanal 2000
+http://yerelmedya.tv:1935/kanal2000/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MSCB KANAL 2000 HD
+http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MTC IRAN
+http://51.210.227.128/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MTV BIGGEST POP HD
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Marmaris Web TV
+https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Marmaris Web TV
+https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Mavi Karadeniz
+https://waw3.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Mavi Karadeniz Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2787?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MaviKaradeniz (720p)
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MaviKaradeniz (720p) [Geo-blocked]
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MaviKaradeniz (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MeltemTv.tr" group-title="Turkiye SD HD FHD yedek",Meltem Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1926?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Mercan TV HD
+http://yerelmedya.tv:1935/mercantv/bant1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MiLYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",MiLYON TV HD
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil//chunklist_b2064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="avi" group-title="Turkiye SD HD FHD yedek",Milli Piyango TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ9GezBqs_pV63UTrylkciw&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Milyon Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116737?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Muğla Türk
+http://broadcasttr.com:1935/muglaturk/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",My 30-A TV
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmy30atvLifestyle30a/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",NEGAH TV IRAN
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",NR 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2045?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",NR1 YEDEK
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ntv" group-title="Turkiye SD HD FHD yedek",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ntv" group-title="Turkiye SD HD FHD yedek",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ntv" group-title="Turkiye SD HD FHD yedek",NTV HD
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ntv" group-title="Turkiye SD HD FHD yedek",NTV HD
+http://195.155.98.170:5858/play/a0a0?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",NUMBER 1 TURK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/chunklist_w395051295.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Natural TV (720p)
+http://broadcasttr.com:1935/naturaltv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",New Beginning TV
+https://broadcast.mytvtogo.net/newbeginningtv/newbeginningtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ntv" group-title="Turkiye SD HD FHD yedek",Ntv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3704?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ntv" group-title="Turkiye SD HD FHD yedek",Ntv HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4222?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Number 1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ort" group-title="Turkiye SD HD FHD yedek",Number One
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",OCKO TV EXPRESS
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist_b2628000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",OCKO TV GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",OCKO TV HITY
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",OGÜN TV
+https://s01.vpis.io/ogun/ogun.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",OLAY TURK KAYSERi TV
+http://yerelmedya.tv:1935/olayturk/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",OLAY TÜRK TV
+https://waw2.artiyerelmedya.net/olayturk/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",ON4 Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13923?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",ON6 TV
+http://yerelmedya.tv:1935/kanal16/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Ordu BB TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Ordu BB TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Ostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Turkiye SD HD FHD yedek",POWER TURK FHD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Turkiye SD HD FHD yedek",POWER TURK HD
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Turkiye SD HD FHD yedek",POWER TURK HD
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Turkiye SD HD FHD yedek",POWER TURK HD YEDEK
+http://yerelmedya.tv:1935/powerturktv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTV.tr" group-title="Turkiye SD HD FHD yedek",POWER TV HD YEDEK
+http://yerelmedya.tv:1935/powertv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",POWER TV TR HD
+https://mn-nl.mncdn.com/blutv_power2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",PRIMA MOVIES
+http://51.210.199.40/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Pamukkale TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9123?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Turkiye SD HD FHD yedek",Power HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6787?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Power Turk (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="Turkiye SD HD FHD yedek",Power Turk HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/72?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Power Türk HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5144?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Quietude 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RetroMusic.cz" group-title="Turkiye SD HD FHD yedek",RMTV
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Rehber TV
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Rehber Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13907?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Rumeli tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",SAT 7 TURK
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",SAT 7 TURK HD
+http://yerelmedya.tv:1935/sat7turk/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",SEMERKAND TV HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",SHOW TURK HD
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Turkiye SD HD FHD yedek",SHOW TV [HD]
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",SIM TV KIBRIS
+https://59cba4d34b678.streamlock.net/canlitv/simtv/chunklist_w2002738637.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkiye SD HD FHD yedek",STAR TV
+http://195.155.98.170:5858/play/a09w?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkiye SD HD FHD yedek",STAR TV FHD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkiye SD HD FHD yedek",STAR TV HD
+http://195.155.98.170:5858/play/a09z?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkiye SD HD FHD yedek",STAR TV SD
+https://dogus-live.daioncdn.net/startv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="Turkiye SD HD FHD yedek",STERK TV
+https://602ccc850c9bb.streamlock.net/sterktv//smil:sterk.smil/chunklist_w726213461_b5160000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",SUN RTV
+https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",SUN RTV MERSiN
+http://yerelmedya.tv:1935/sunrtv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sancak TV Haymana
+https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sariyer TV
+http://s01.vpis.io/sariyer/sariyer.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Saryarga
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sat7 Türk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sat7 Türk (720p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sat7Türk
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116738?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SemerkandTV.tr" group-title="Turkiye SD HD FHD yedek",Semerkand HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5234?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SemerkandTV.tr" group-title="Turkiye SD HD FHD yedek",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Show Tv Avrupa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3371?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Turkiye SD HD FHD yedek",Show Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/53?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Turkiye SD HD FHD yedek",Show Tv HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4776?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Turkiye SD HD FHD yedek",Show Türk
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",ShowMax
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6632?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sieng Khaen Lao
+https://livefta.malimarcdn.com/ftaedge00/vlctemple.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sim Tv Kıbrıs
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/14658?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Sinop Yildiz TV
+https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="360.tr" group-title="Turkiye SD HD FHD yedek",Sky Türk 360
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1060?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Space TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/25879?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkiye SD HD FHD yedek",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Star Tv Avrupa
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7082?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkiye SD HD FHD yedek",Star Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/51?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkiye SD HD FHD yedek",Star Tv HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4775?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TATLISES TV HD
+http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TAY TV HD
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TEMPO TV
+http://yerelmedya.tv:1935/tempotv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Turkiye SD HD FHD yedek",TGRT BELGESEL YEDEK
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Turkiye SD HD FHD yedek",TGRT BELGESEL [SD]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Turkiye SD HD FHD yedek",TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Turkiye SD HD FHD yedek",TGRT HABER
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TGRT HABER HD YEDEK
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Turkiye SD HD FHD yedek",TGRT HABER [HD]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TGRT Haber (360p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TGRT Haber HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1923?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Turkiye SD HD FHD yedek",TLC HD
+http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Turkiye SD HD FHD yedek",TLC HD YEDEK
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TMB Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13904?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TON TV
+http://yerelmedya.tv:1935/tontv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TOPRAK TV
+https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TR Kıbrıs Genç Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2784?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TR24 TV [HD]
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Turkiye SD HD FHD yedek",TRT 1
+http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Turkiye SD HD FHD yedek",TRT 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3334?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Turkiye SD HD FHD yedek",TRT 1 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4774?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/24906?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT 2
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRT2.tr" group-title="Turkiye SD HD FHD yedek",TRT 2 FHD
+http://167.114.115.233:8080/trt2fhd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT 3-SPOR
+http://195.155.98.170:5858/play/a09m?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT 4K
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4001/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="Turkiye SD HD FHD yedek",TRT ARABi
+http://tv-trtarabi.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Turkiye SD HD FHD yedek",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Turkiye SD HD FHD yedek",TRT Avaz
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7326?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Turkiye SD HD FHD yedek",TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Turkiye SD HD FHD yedek",TRT BELGESEL
+http://195.155.98.170:5858/play/a09o?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Turkiye SD HD FHD yedek",TRT BELGESEL HD
+http://195.155.98.170:5858/play/a09f?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Turkiye SD HD FHD yedek",TRT COCUK
+http://195.155.98.170:5858/play/a09n?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Turkiye SD HD FHD yedek",TRT COCUK HD
+http://195.155.98.170:5858/play/a09b?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Turkiye SD HD FHD yedek",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Turkiye SD HD FHD yedek",TRT Diyanet
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9131?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT Eba Lise
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/74855?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT Eba Ortaokul
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/74854?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT Eba İlkokul
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/74853?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Turkiye SD HD FHD yedek",TRT HABER
+http://195.155.98.170:5858/play/a09k?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTKurdi.tr" group-title="Turkiye SD HD FHD yedek",TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT MUZIK HD
+http://195.155.98.170:5858/play/a09h?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Turkiye SD HD FHD yedek",TRT MUZiK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT MUZiK HD
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Turkiye SD HD FHD yedek",TRT Müzik
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1063?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT SPOR YILDIZ
+http://195.155.98.170:5858/play/a09u?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="Turkiye SD HD FHD yedek",TRT TURK HD
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="Turkiye SD HD FHD yedek",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="Turkiye SD HD FHD yedek",TRT Türk
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1082?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTWorldHD.tr" group-title="Turkiye SD HD FHD yedek",TRT WORLD HD
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT WORLD HD-TR (720p)
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Turkiye SD HD FHD yedek",TRT Çocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRT1HD.tr" group-title="Turkiye SD HD FHD yedek",TRT1 HD
+http://195.155.98.170:5858/play/a09c?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TRT2 HD
+http://195.155.98.170:5858/play/a09p?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TURHAL WEB TV
+http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/chunklist_w1702401498.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TURKUVAZ INFO
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 100 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/35073?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 100 HD TR
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 264 Sakarya
+https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 38
+https://59cba4d34b678.streamlock.net/live/tv38/HasBahCa_w981863024.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 38
+https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 38
+https://59cba4d34b678.streamlock.net/live/tv38/chunklist_w981863024.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 38 (360p)
+https://59cba4d34b678.streamlock.net/live/tv38/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TV4.pl" group-title="Turkiye SD HD FHD yedek",TV 4
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13890?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41
+https://waw1.artiyerelmedya.net/tv41/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41
+http://yerelmedya.tv:1935/tv41/_definst_/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41
+rtmp://stream.taksimbilisim.com:1935/tv41/bant1?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv41/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41 KOCAELi
+http://yerelmedya.tv:1935/tv41/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41 Kocaeli
+http://yerelmedya.tv:1935/tv41/_definst_/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 41 m3u8 taksimbilisim
+http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 52
+https://broadcasttr.com:446/tv52/bant1/chunklist_w846204715.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 52
+https://broadcasttr.com:446/tv52/bant1/HasBahCa_w846204715.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV 52 m3u8 taksimbilisim
+http://stream.taksimbilisim.com:1935/tv52/bant1/TV52.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8?HasBahCa.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV EM
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV EM
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV Em (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV'DEN Aydın
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13934?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV1 Kayseri
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13914?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="tv1000" group-title="Turkiye SD HD FHD yedek",TV100
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TV4.lv" group-title="Turkiye SD HD FHD yedek",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TV4.pl" group-title="Turkiye SD HD FHD yedek",TV4 FHD
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV41
+https://waw2.artiyerelmedya.net/tv41/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="tv5" group-title="Turkiye SD HD FHD yedek",TV5
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3287?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TV5Monde.tr" group-title="Turkiye SD HD FHD yedek",TV5 TR
+http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV52
+https://broadcasttr.com:446/tv52/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV52
+https://broadcasttr.com:446/tv52/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TV52 Ordu
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4991?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVNet.tr" group-title="Turkiye SD HD FHD yedek",TVNET HD
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Tarsus Güney TV
+https://waw1.artiyerelmedya.net/guneytv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Tay TV
+https://mn-nl.mncdn.com/blutv_taytv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Tele 1 Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9334?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Tempo Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116739?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TV2.tr" group-title="Turkiye SD HD FHD yedek",Teve2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6386?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Turkiye SD HD FHD yedek",Tgrt Eu
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7133?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",TiVi 6 HD
+http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="Turkiye SD HD FHD yedek",Tivibu  Spor 2
+http://red.ipfox.org:8080/Karam2022/Karam2023/2820?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="Turkiye SD HD FHD yedek",Tivibu Spor  2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="Turkiye SD HD FHD yedek",Tivibu Spor 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="Turkiye SD HD FHD yedek",Tivibu Spor 3
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4757?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Ton TV
+http://yerelmedya.tv:1935/tontv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Ton Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116740?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Trakya Türk TV
+https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8?HasBahCa.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Trakya Türk TV
+https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Turkiye SD HD FHD yedek",Trt Haber HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/48?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Turkiye SD HD FHD yedek",Trt Haber HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5224?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Turkiye SD HD FHD yedek",Trt World HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7853?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Turhal Süper TV
+https://59cba4d34b678.streamlock.net/canlitv/tokatsupertv/HasBahCa_w775735648.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Turhal Web TV
+http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/HasBahCa_w1702401498.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="tv8-lt" group-title="Turkiye SD HD FHD yedek",Tv8 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/57?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="tv8-lt" group-title="Turkiye SD HD FHD yedek",Tv8 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4777?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TV8.tr" group-title="Turkiye SD HD FHD yedek",Tv8.5 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5390?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVNet.tr" group-title="Turkiye SD HD FHD yedek",Tvnet HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1075?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVNet.tr" group-title="Turkiye SD HD FHD yedek",Tvnet HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5231?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="UATV.nws" group-title="Turkiye SD HD FHD yedek",UA Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116744?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="UlkeTV.tr" group-title="Turkiye SD HD FHD yedek",ULKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",ULUSAL KANAL HD
+https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",UR FANATiK TV
+http://yerelmedya.tv:1935/urfanatiktv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",UR FANATiK TV YEDEK
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="UlusalKanal.tr" group-title="Turkiye SD HD FHD yedek",Ulusal Kanal
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2600?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="UlusalKanal.tr" group-title="Turkiye SD HD FHD yedek",Ulusal Kanal
+http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Uzay Haber
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13903?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="UcankusTV.tr" group-title="Turkiye SD HD FHD yedek",Uçankuş TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/111193?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VoxAfrica.uk" group-title="Turkiye SD HD FHD yedek",VOX AFRICA
+https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VTV.bg" group-title="Turkiye SD HD FHD yedek",VTV
+https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",VUSLAT TV HD
+https://waw2.artiyerelmedya.net/vuslattv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",VUSLAT TV HD YEDEK
+https://mn-nl.mncdn.com/blutv_vuslattv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Vatan Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7979?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",ViZYON 58 SiVAS
+http://yerelmedya.tv:1935/vizyon58/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Viyana Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/8689?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Vizyon 58
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7458?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Vuslat TV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",VİZYON 58
+https://waw2.artiyerelmedya.net/vizyon58/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Wired2fish TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",World Türk
+http://yerelmedya.tv:1935/worldturk/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YabanTV.tr" group-title="Turkiye SD HD FHD yedek",YABAN TV (720p)
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",YABAN TV FHD
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w192048208.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YabanTV.tr" group-title="Turkiye SD HD FHD yedek",YABAN TV [HD]
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",YAREN TV
+https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",YESiLYURT TV
+http://yerelmedya.tv:1935/yesilyurttv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",YOL TV
+https://stream.yol.tv:9443/medialive/yol.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YabanTV.tr" group-title="Turkiye SD HD FHD yedek",Yaban Tv
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1031340952.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Turkiye SD HD FHD yedek",Yasin Tv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/116741?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Selcuk bein yedek",Selcuk Bein1 oyun vaxti aktiv
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Selcuk bein yedek",selcuk bein 3 yedek
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Selcuk bein yedek",Bein Sport 2 yedek
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Selcuk bein yedek",Bein Sport 3 yedek
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Selcuk bein yedek",Bein Sport 4 yedek
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",BEIN SPORTS 1 VIP
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044258?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="Bein SPorts Yedek",BEIN SPORTS MAX 1
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044215?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="Bein SPorts Yedek",BEIN SPORTS MAX 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044214?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein SPorts Yedek",BeIN SPORT 1 HD
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein SPorts Yedek",BeIN SPORT 3 HD
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein SPorts Yedek",Bein Sport 1
+http://red.ipfox.org:8080/Karam2022/Karam2023/2810?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports - 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports - 2 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports - 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports - 3 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports - 4 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports - 4 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1398?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports Haber
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/11456?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Bein SPorts Yedek",Bein Sports Max 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4196?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",Bein Sports Max 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4197?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",BeinSports 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",BeinSports 1 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5104?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Bein SPorts Yedek",BeinSports All Backups HD++
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",AFN MUSIC IRAN
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Music",BARAZA TV MUSIC
+https://eco.streams.ovh/BarazaTV/BarazaTV/chunklist_w475155693.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Music",California Music Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Music",NGRadio TV Music
+http://live.streams.ovh:1935/NGradio/NGradio/chunklist_w803356777.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Music",NRG91 Music
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w68553139.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Music",Qmusic HD
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Music",RETRO TV MUSIC
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Music",SPIRIT TV MUSIC
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com

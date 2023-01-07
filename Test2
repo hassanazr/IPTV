@@ -193,6 +193,8 @@ http://canli.naxcivantv.az/media/20221230/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_31
 http://canli.naxcivantv.az/media/20221231/index.m3u8
 --------------------------------------------------------------
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",AzTv
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/16526
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Ictimai TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/684
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Medeniyyet TV

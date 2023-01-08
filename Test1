@@ -1,49 +1,170 @@
-#EXTM3U
-#EXTINF:0,#EXTINF:-1,01
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/53
-#EXTINF:0,#EXTINF:-1,02
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/54
-#EXTINF:0,#EXTINF:-1,03
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/55
-#EXTINF:0,#EXTINF:-1,04
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/95
-#EXTINF:0,#EXTINF:-1,05
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/90
-#EXTINF:0,#EXTINF:-1,06
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/1641
-#EXTINF:0,#EXTINF:-1,07
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/1642
-#EXTINF:0,#EXTINF:-1,08
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/1643
-#EXTINF:0,#EXTINF:-1,09
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/1644
-#EXTINF:0,#EXTINF:-1,10
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/1645
-#EXTINF:0,#EXTINF:-1,11
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/9124
-#EXTINF:0,#EXTINF:-1,12
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12955
-#EXTINF:0,#EXTINF:-1,13
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12956
-#EXTINF:0,#EXTINF:-1,14
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12957
-#EXTINF:0,#EXTINF:-1,15
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12958
-#EXTINF:0,#EXTINF:-1,16
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12959
-#EXTINF:0,#EXTINF:-1,17
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12960
-#EXTINF:0,#EXTINF:-1,18
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12961
-#EXTINF:0,#EXTINF:-1,19
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12962
-#EXTINF:0,#EXTINF:-1,20
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/12963
-#EXTINF:0,#EXTINF:-1,21
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/32448
-#EXTINF:0,#EXTINF:-1,22
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/32449
-#EXTINF:0,#EXTINF:-1,23
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/32450
-#EXTINF:0,#EXTINF:-1,24
-http://ottshow.net:80/WI1W3IFGx6MF/dcXIPSIBmRGL7I1u0u/32451
+#EXTINF:0 tvg-id="ext" group-title="Ir",4 kurd,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296245
+#EXTINF:0 tvg-id="ext" group-title="Ir",4U TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287450
+#EXTINF:0 tvg-id="ext" group-title="Ir",AABC TV (Armenia),http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/145983
+#EXTINF:0 tvg-id="ext" group-title="Ir",AMG TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296244
+#EXTINF:0 tvg-id="ext" group-title="Ir",AVA Family,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5491
+#EXTINF:0 tvg-id="ext" group-title="Ir",AVA Series,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166818
+#EXTINF:0 tvg-id="ext" group-title="Ir",Avang TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287452
+#EXTINF:0 tvg-id="ext" group-title="Ir",Ayeneh TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194243
+#EXTINF:0 tvg-id="ext" group-title="Ir",BBC Persian,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/54278
+#EXTINF:0 tvg-id="ext" group-title="Ir",Bravo,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296249
+#EXTINF:0 tvg-id="ext" group-title="Ir",Ganj e Hozour TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5484
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM 24B,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166809
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Arabic,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56815
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM AZ,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64976
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Bollywood,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5481
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Classic,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5476
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Comedy,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5418
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Crypto,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296371
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Drama,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/283194
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Film,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166815
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM FIT,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166807
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Food,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/283193
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Junior,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5474
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Kids,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5473
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Latino,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166810
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Life,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5441
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Maxx,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5442
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Mifa+,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279645
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Nature,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166821
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Onyx,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5467
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Property,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/276033
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM River,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5471
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM River+,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279652
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Rubix,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56803
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Rubix+,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5463
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Series,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56816
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Series+,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5462
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Travel,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64972
+#EXTINF:0 tvg-id="ext" group-title="Ir",GEM TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5459
+#EXTINF:0 tvg-id="ext" group-title="Ir",High Vision,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/280245
+#EXTINF:0 tvg-id="ext" group-title="Ir",Hodhod Farsi TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296713
+#EXTINF:0 tvg-id="ext" group-title="Ir",Honarmandan TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5457
+#EXTINF:0 tvg-id="ext" group-title="Ir",Icnet TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287456
+#EXTINF:0 tvg-id="ext" group-title="Ir",Iran Beauty,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/200369
+#EXTINF:0 tvg-id="ext" group-title="Ir",Iran International,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5444
+#EXTINF:0 tvg-id="ext" group-title="Ir",Iranefarda TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5445
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 1,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5492
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 2,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5387
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 3,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5386
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 3 satellite,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296739
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 4,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56814
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 5,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56817
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Abadan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285275
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Aflak,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/294884
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Aftab,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285284
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Alborz,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196357
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Amouzesh,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21971
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ara,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296434
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Atrak,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296446
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ayam,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285290
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Azarbayjangharbi,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296437
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Baran,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296461
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Bushehr,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296442
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Dena,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296458
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Esfahan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296253
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Eshragh,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296449
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Fars,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296452
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Gardesh,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296435
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Habib,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296702
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Hamoon,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285268
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB IFilm,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285237
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ilam,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285257
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB IRINN,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/169124
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jahanbin,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285259
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jam,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285249
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jamejam 1,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5443
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jamejam 2,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296427
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jamejam 3,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296428
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Javaneh,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285251
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Kerman,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285270
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ketabnama,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296436
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Khalijefars,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21967
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Khavaran,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296722
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB khoozestan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296448
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Khorasanrazavi,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285280
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Kish,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285272
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Kordestan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64958
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Labbayk,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296704
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Mahabad,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285276
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Mostanad,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296418
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Nama,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296431
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Namayesh,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21949
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Nasim,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/49660
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Nava,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285254
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB News Plus,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296701
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Noor,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296454
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ofogh,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/182303
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Omid,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296422
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Pooya,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64957
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Qazvin,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285267
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sabalan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285274
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sabz,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296460
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sahand,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296438
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Salamat,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56823
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Semnan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64953
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sepehr,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285248
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Shoma,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64952
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sina,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296721
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Taban,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285271
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Tabarestan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296718
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Tamasha,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64949
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Varzesh TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5381
+#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Zagros,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296457
+#EXTINF:0 tvg-id="ext" group-title="Ir",Israel Pars TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285642
+#EXTINF:0 tvg-id="ext" group-title="Ir",ITN,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64961
+#EXTINF:0 tvg-id="ext" group-title="Ir",Kalemeh TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/199220
+#EXTINF:0 tvg-id="ext" group-title="Ir",Maah TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287625
+#EXTINF:0 tvg-id="ext" group-title="Ir",manoto,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/98
+#EXTINF:0 tvg-id="ext" group-title="Ir",manoto +1,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/282309
+#EXTINF:0 tvg-id="ext" group-title="Ir",manoto 1080,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/99
+#EXTINF:0 tvg-id="ext" group-title="Ir",MBC Persia,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5435
+#EXTINF:0 tvg-id="ext" group-title="Ir",Mihan TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5431
+#EXTINF:0 tvg-id="ext" group-title="Ir",Mohabat TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5430
+#EXTINF:0 tvg-id="ext" group-title="Ir",My Movie,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287785
+#EXTINF:0 tvg-id="ext" group-title="Ir",Navahang TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196358
+#EXTINF:0 tvg-id="ext" group-title="Ir",Omid Javedan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/18660
+#EXTINF:0 tvg-id="ext" group-title="Ir",Omide Iran,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287460
+#EXTINF:0 tvg-id="ext" group-title="Ir",Oxir TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196367
+#EXTINF:0 tvg-id="ext" group-title="Ir",Parnian TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/197344
+#EXTINF:0 tvg-id="ext" group-title="Ir",Pars TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194254
+#EXTINF:0 tvg-id="ext" group-title="Ir",Parsiland TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/192085
+#EXTINF:0 tvg-id="ext" group-title="Ir",Payam Javan TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/284220
+#EXTINF:0 tvg-id="ext" group-title="Ir",Payame Aramesh TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166230
+#EXTINF:0 tvg-id="ext" group-title="Ir",Payvand TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5417
+#EXTINF:0 tvg-id="ext" group-title="Ir",PBC Tapesh,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21944
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persian Bazar,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196369
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persian Film,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287464
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Cinema,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225271
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Classic,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225270
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Comedy,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225267
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Family,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225273
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Game & Tech,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225275
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Iranian,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225276
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Junior,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279653
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Korea,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287466
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Music,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225266
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Nostalgia,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225274
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana One,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/165039
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Sonnati,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296657
+#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Sports,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287468
+#EXTINF:0 tvg-id="ext" group-title="Ir",PMC,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21947
+#EXTINF:0 tvg-id="ext" group-title="Ir",PMC Royale,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/283038
+#EXTINF:0 tvg-id="ext" group-title="Ir",Prima TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287784
+#EXTINF:0 tvg-id="ext" group-title="Ir",Radio Farda,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5410
+#EXTINF:0 tvg-id="ext" group-title="Ir",Radio Javan TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5408
+#EXTINF:0 tvg-id="ext" group-title="Ir",Royal Time,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/69536
+#EXTINF:0 tvg-id="ext" group-title="Ir",Sahand TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64954
+#EXTINF:0 tvg-id="ext" group-title="Ir",Sahar Balkan,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287791
+#EXTINF:0 tvg-id="ext" group-title="Ir",Sahar Kurdi,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/14710
+#EXTINF:0 tvg-id="ext" group-title="Ir",Salaam TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166274
+#EXTINF:0 tvg-id="ext" group-title="Ir",Sat 7 Pars,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5419
+#EXTINF:0 tvg-id="ext" group-title="Ir",Sepanj TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287473
+#EXTINF:0 tvg-id="ext" group-title="Ir",Simaye Azadi,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5398
+#EXTINF:0 tvg-id="ext" group-title="Ir",SL 1,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287469
+#EXTINF:0 tvg-id="ext" group-title="Ir",SL 2,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287470
+#EXTINF:0 tvg-id="ext" group-title="Ir",SNN TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287471
+#EXTINF:0 tvg-id="ext" group-title="Ir",TAPESH 2,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287474
+#EXTINF:0 tvg-id="ext" group-title="Ir",TIN TV,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5391
+#EXTINF:0 tvg-id="ext" group-title="Ir",Toonix,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287475
+#EXTINF:0 tvg-id="ext" group-title="Ir",VOA TV Persian,http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5378

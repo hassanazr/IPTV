@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",AzTv
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/16526
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Ictimai TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/684
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Medeniyyet TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/676
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Space TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/686
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Xezer TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/23531
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Azad TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/681
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Turan TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296913
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ARB
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/16529
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Az Star TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278505
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Azad TV 4
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285958
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Dunya TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/683
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Kepez TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/58976
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",El TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194303
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Qabala TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279670
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Muz TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296915
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Mugan TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285961
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Vostok TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296914
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Azerbaijan News TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/199097
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Baku TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/280129
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Real TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/680
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",CBC Sport
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290202
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Idman TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/685
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxivan
 http://canli.naxcivantv.az/media/ntvlive123.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",anT  
@@ -26,47 +70,6 @@ http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SahandTV
 http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvcat.com
 ------------------------------------------------------------
-#EXTINF:0 tvg-id="ext" group-title="Turk",TRT1
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/3334
-#EXTINF:0 tvg-id="ext" group-title="Turk",TRT1 HD+  
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4774
-#EXTINF:0 tvg-id="ext" group-title="Turk",Show Tv HD+
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4776
-#EXTINF:0 tvg-id="ext" group-title="Turk",Kanal D HD+
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4768
-#EXTINF:0 tvg-id="ext" group-title="Turk",Atv HD+
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4769
-#EXTINF:0 tvg-id="ext" group-title="Turk",TRT1
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/3334
-#EXTINF:0 tvg-id="ext" group-title="Turk",Star Tv HD+
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/4775
-#EXTINF:0 tvg-id="ext" group-title="Turk",Fox tv HD+
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/55635
-#EXTINF:0 tvg-id="ext" group-title="Turk",A2 Tv
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/6314
-#EXTINF:0 tvg-id="ext" group-title="Turk",Teve2 HD
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/6386
-#EXTINF:0 tvg-id="ext" group-title="Turk",Beyaz Tv HD+
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/5223
-#EXTINF:0 tvg-id="ext" group-title="Turk",360 HD
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/1060
-#EXTINF:0 tvg-id="ext" group-title="Turk",TV 4
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/13890
-#EXTINF:0 tvg-id="ext" group-title="Turk",TRT Avaz
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/7326
-#EXTINF:0 tvg-id="ext" group-title="Turk",Power HD+
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/6787
-#EXTINF:0 tvg-id="ext" group-title="Turk",Kral Tv HD
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/2758
-#EXTINF:0 tvg-id="ext" group-title="Turk",Kral Pop HD
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/3803
-#EXTINF:0 tvg-id="ext" group-title="Turk",NR 1
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/2045
-#EXTINF:0 tvg-id="ext" group-title="Turk",Cine5
-https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721906648
-#EXTINF:0 tvg-id="ext" group-title="Turk",Cine5+
-https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721906649
------------------------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_1
 http://canli.naxcivantv.az/media/20230101/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_2
@@ -192,51 +195,6 @@ http://canli.naxcivantv.az/media/20221229/index.m3u8
 http://canli.naxcivantv.az/media/20221230/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_31
 http://canli.naxcivantv.az/media/20221231/index.m3u8
---------------------------------------------------------------
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",AzTv
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/16526
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Ictimai TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/684
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Medeniyyet TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/676
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Space TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/686
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Xezer TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/23531
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Azad TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/681
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Turan TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296913
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ARB
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/16529
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Az Star TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278505
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Azad TV 4
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285958
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Dunya TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/683
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Kepez TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/58976
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",El TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194303
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Qabala TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279670
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Muz TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296915
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Mugan TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285961
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Vostok TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296914
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Azerbaijan News TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/199097
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Baku TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/280129
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Real TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/680
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",CBC Sport
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290202
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Idman TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/685
 -----------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Ir",4 kurd
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296245
@@ -578,336 +536,336 @@ http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5391
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287475
 #EXTINF:0 tvg-id="ext" group-title="Ir",VOA TV Persian  
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5378
-------------------------------------------------------
-#EXTINF:0 tvg-id="aztv" group-title="Iran", 0/1
+--------------------------------------------------------
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, 0/1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297095
-#EXTINF:0 tvg-id="aztv" group-title="Iran", 0/2
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, 0/2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297101
-#EXTINF:0 tvg-id="aztv" group-title="Iran", 4K EVILANGEL CUM4K
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, 4K EVILANGEL CUM4K,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296695
-#EXTINF:0 tvg-id="aztv" group-title="Iran", 4K EVILANGEL CUSTOMS
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, 4K EVILANGEL CUSTOMS,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296694
-#EXTINF:0 tvg-id="aztv" group-title="Iran", 4K LIBERTY
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, 4K LIBERTY,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297027
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Adult Channel 1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Adult Channel 1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290567
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Adult Channel 2
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Adult Channel 2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296955
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Adult Channel 3
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Adult Channel 3,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296956
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Adult Channel 4
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Adult Channel 4,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296948
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Adult Channel 5
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Adult Channel 5,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296954
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Alba XXX 6
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Alba XXX 6,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/8312
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Alba XXX HD1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Alba XXX HD1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/8311
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Alba XXX HD1 +1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Alba XXX HD1 +1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296945
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Alba XXX HD2
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Alba XXX HD2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/8310
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Alba XXX HD2 +1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Alba XXX HD2 +1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296946
-#EXTINF:0 tvg-id="aztv" group-title="Iran", AMATEUR BOXXX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, AMATEUR BOXXX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297029
-#EXTINF:0 tvg-id="aztv" group-title="Iran", ATK Excelent
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, ATK Excelent,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297154
-#EXTINF:0 tvg-id="aztv" group-title="Iran", ATK Galleria
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, ATK Galleria,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/291229
-#EXTINF:0 tvg-id="aztv" group-title="Iran", ATK Hairy
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, ATK Hairy,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297155
-#EXTINF:0 tvg-id="aztv" group-title="Iran", babes
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, babes,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296234
-BalkanErotic.svnXXX: BALKAN EROTIC
+BalkanErotic.svn,XXX: BALKAN EROTIC,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3320
-BangU.usXXX: BANG U
+BangU.us,XXX: BANG U,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3330
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BANG U +1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BANG U +1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296951
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BANG U +2
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BANG U +2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297094
-BarelyLegal.bgXXX: BARELY LEGAL
+BarelyLegal.bg,XXX: BARELY LEGAL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/92037
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BEATE UHSE
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BEATE UHSE,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3341
-hustler-blueXXX: Blue Hustler
+hustler-blue,XXX: Blue Hustler,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/37296
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Blue TV Cuckold
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Blue TV Cuckold,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296961
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Blue TV Erotica
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Blue TV Erotica,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297023
-Brazzers.eroXXX: BRAZZERS
+Brazzers.ero,XXX: BRAZZERS,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/291234
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BRAZZERS +1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BRAZZERS +1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296073
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BRAZZERS +2
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BRAZZERS +2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297156
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BRAZZERS Espanol
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BRAZZERS Espanol,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/291241
-Brazzers.eroXXX: BRAZZERS Europe
+Brazzers.ero,XXX: BRAZZERS Europe,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/79
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BRAZZERS VOD
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BRAZZERS VOD,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296072
-#EXTINF:0 tvg-id="aztv" group-title="Iran", BRAZZERS VOD +1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, BRAZZERS VOD +1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297157
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Cento X Cento
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Cento X Cento,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/245142
-#EXTINF:0 tvg-id="aztv" group-title="Iran", DDF Network
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, DDF Network,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296944
-#EXTINF:0 tvg-id="aztv" group-title="Iran", DEEP LUSH
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, DEEP LUSH,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/165895
-Dorcel.eroXXX: DORCEL TV
+Dorcel.ero,XXX: DORCEL TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3283
-Dorcel.eroXXX: DORCEL XXX
+Dorcel.ero,XXX: DORCEL XXX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296960
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Dream Porn
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Dream Porn,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3288
-DuskTV.eroXXX: DUSK
+DuskTV.ero,XXX: DUSK,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/75
-#EXTINF:0 tvg-id="aztv" group-title="Iran", erotic
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, erotic,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/37153
-PinkErotic2.rsXXX: erotic 2
+PinkErotic2.rs,XXX: erotic 2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/76
-PinkErotic3.rsXXX: erotic 3
+PinkErotic3.rs,XXX: erotic 3,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3317
-PinkErotic4.rsXXX: erotic 4
+PinkErotic4.rs,XXX: erotic 4,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/52
-#EXTINF:0 tvg-id="aztv" group-title="Iran", erotic 5
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, erotic 5,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/35814
-#EXTINF:0 tvg-id="aztv" group-title="Iran", erotic 6
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, erotic 6,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/77
-#EXTINF:0 tvg-id="aztv" group-title="Iran", erotic 7
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, erotic 7,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3318
-#EXTINF:0 tvg-id="aztv" group-title="Iran", erotic 8
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, erotic 8,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3319
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Erotic Spice
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Erotic Spice,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296970
-#EXTINF:0 tvg-id="aztv" group-title="Iran", EROX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, EROX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3796
-Eroxxx.eroXXX: EROXXX
+Eroxxx.ero,XXX: EROXXX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/37276
-EvilAngel.eroXXX: EVIL ANGEL
+EvilAngel.ero,XXX: EVIL ANGEL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/146259
-#EXTINF:0 tvg-id="aztv" group-title="Iran", EVIL ANGEL 2
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, EVIL ANGEL 2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296962
-#EXTINF:0 tvg-id="aztv" group-title="Iran", EVIL ANGEL 3
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, EVIL ANGEL 3,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/291240
-#EXTINF:0 tvg-id="aztv" group-title="Iran", EVIL ANGEL 4
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, EVIL ANGEL 4,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/295995
-#EXTINF:0 tvg-id="aztv" group-title="Iran", EVIL ANGEL 5
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, EVIL ANGEL 5,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/291237
-#EXTINF:0 tvg-id="aztv" group-title="Iran", EXPO EROX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, EXPO EROX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296949
-Extasy.eroXXX: EXTASY
+Extasy.ero,XXX: EXTASY,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/195567
-#EXTINF:0 tvg-id="aztv" group-title="Iran", EXTASY +1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, EXTASY +1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297093
-extreme-sportsXXX: EXTREME
+extreme-sports,XXX: EXTREME,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3329
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Exxxotica TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Exxxotica TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3345
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Fantazzy TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Fantazzy TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296374
-FrenchLover.eroXXX: French Lover
+FrenchLover.ero,XXX: French Lover,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3334
-#EXTINF:0 tvg-id="aztv" group-title="Iran", HARDX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, HARDX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296965
-HotGOLD.ilXXX: HOT Gold
+HotGOLD.il,XXX: HOT Gold,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/291250
-#EXTINF:0 tvg-id="aztv" group-title="Iran", HOT GUYS FUCK
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, HOT GUYS FUCK,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296975
-#EXTINF:0 tvg-id="aztv" group-title="Iran", HOT XXL
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, HOT XXL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/15844
-HustlerHD.eroXXX: HUSTLER HD
+HustlerHD.ero,XXX: HUSTLER HD,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/6028
-#EXTINF:0 tvg-id="aztv" group-title="Iran", IPPA
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, IPPA,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297092
-#EXTINF:0 tvg-id="aztv" group-title="Iran", KINK
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, KINK,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296976
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Lust Pur TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Lust Pur TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290294
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Luxure TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Luxure TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296950
-#EXTINF:0 tvg-id="aztv" group-title="Iran", mano job
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, mano job,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297088
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Meiden Van Holland
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Meiden Van Holland,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3311
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Miami TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Miami TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1731
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Miami TV International
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Miami TV International,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/55212
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Miami TV Jenny For You
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Miami TV Jenny For You,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296366
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Miami TV Jenny Live
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Miami TV Jenny Live,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285514
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Miami TV Latino
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Miami TV Latino,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/18344
-#EXTINF:0 tvg-id="aztv" group-title="Iran", MILF TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, MILF TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3327
-#EXTINF:0 tvg-id="aztv" group-title="Iran", NET XX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, NET XX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3324
-#EXTINF:0 tvg-id="aztv" group-title="Iran", O.La.La
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, O.La.La,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/36535
-#EXTINF:0 tvg-id="aztv" group-title="Iran", OX-AX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, OX-AX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296984
-AdultAllAccessPassCh.usXXX: Passie XXX
+AdultAllAccessPassCh.us,XXX: Passie XXX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/28298
-PassionXXX.eroXXX: Passion XXX
+PassionXXX.ero,XXX: Passion XXX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/48
-PenthouseGold.eroXXX: PENTHOUSE Gold
+PenthouseGold.ero,XXX: PENTHOUSE Gold,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/32056
-PenthousePassionHD.eroXXX: PENTHOUSE Passion
+PenthousePassionHD.ero,XXX: PENTHOUSE Passion,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/172382
-#EXTINF:0 tvg-id="aztv" group-title="Iran", PENTHOUSE REALITY TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, PENTHOUSE REALITY TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296983
-#EXTINF:0 tvg-id="aztv" group-title="Iran", PINKO CLUB
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, PINKO CLUB,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3342
-playboyXXX: PLAYBOY
+playboy,XXX: PLAYBOY,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/14222
-PlayboyTV.eroXXX: PLAYBOY Latino
+PlayboyTV.ero,XXX: PLAYBOY Latino,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290309
-#EXTINF:0 tvg-id="aztv" group-title="Iran", PORNBOX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, PORNBOX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297098
-PrivateTV.eroXXX: Private TV
+PrivateTV.ero,XXX: Private TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3281
-#EXTINF:0 tvg-id="aztv" group-title="Iran", RAW X 1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, RAW X 1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296967
-#EXTINF:0 tvg-id="aztv" group-title="Iran", RAW X 2
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, RAW X 2,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296953
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Reality Kings TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Reality Kings TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/383
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Reality Kings TV - Sugar Street
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Reality Kings TV - Sugar Street,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296988
-#EXTINF:0 tvg-id="aztv" group-title="Iran", Reality Kings TV - Sugar Street +1
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, Reality Kings TV - Sugar Street +1,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297153
-#EXTINF:0 tvg-id="aztv" group-title="Iran", RED XXX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, RED XXX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297089
-RedlightHD.eroXXX: REDLIGHT
+RedlightHD.ero,XXX: REDLIGHT,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/85
-russkaya-nochXXX: Russian Night
+russkaya-noch,XXX: Russian Night,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/49168
-SecretCircle.nlXXX: Secret Circle
+SecretCircle.nl,XXX: Secret Circle,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290298
-SeXation.svnXXX: SeXation
+SeXation.svn,XXX: SeXation,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/146437
-Sextreme.arXXX: SEXTREME
+Sextreme.ar,XXX: SEXTREME,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3309
-Sexyhot.brXXX: Sexy HOT
+Sexyhot.br,XXX: Sexy HOT,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3310
-#EXTINF:0 tvg-id="aztv" group-title="Iran", SHALUN TV (Шалун ТВ)
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, SHALUN TV (Шалун ТВ),
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290291
-SuperOne.eroXXX: SuperOne
+SuperOne.ero,XXX: SuperOne,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3286
-VenusTV.ukXXX: VENUS
+VenusTV.uk,XXX: VENUS,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3258
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VISIT-X TV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VISIT-X TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/28531
-VividRed.eroXXX: VIVID Red
+VividRed.ero,XXX: VIVID Red,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3989
-VividTouch.eroXXX: VIVID Touch
+VividTouch.ero,XXX: VIVID Touch,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3295
-VividTV.usXXX: VIVID TV
+VividTV.us,XXX: VIVID TV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/146434
-VIXEN.eroXXX: VIXEN
+VIXEN.ero,XXX: VIXEN,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290296
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX -  PERV CITY
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX -  PERV CITY,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297127
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - ALL BLACK X
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - ALL BLACK X,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297152
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - ALL GROUP SEX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - ALL GROUP SEX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297151
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - BANGBUS
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - BANGBUS,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297108
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - BLACKED
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - BLACKED,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297109
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - BLACKED RAW
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - BLACKED RAW,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297110
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - BRATTY SIS
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - BRATTY SIS,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297111
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - BRAZZERS EN ESPANOL
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - BRAZZERS EN ESPANOL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297112
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - CUM
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - CUM,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297113
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - CUM FIESTA
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - CUM FIESTA,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297114
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - DAUGHTER SWAP
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - DAUGHTER SWAP,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297115
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - DEEPER
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - DEEPER,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297116
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - DIGITAL PLAYGROUND
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - DIGITAL PLAYGROUND,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297117
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - EROTIC SPICE
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - EROTIC SPICE,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297118
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - EXXXTRA SMALL
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - EXXXTRA SMALL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297119
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FAKE AGENT
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FAKE AGENT,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297120
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FAKE AGENT UK
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FAKE AGENT UK,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297121
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FAKE DRIVING SCHOOL
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FAKE DRIVING SCHOOL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297122
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FAKE HOSPITAL
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FAKE HOSPITAL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297123
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FAKE HOSTEL
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FAKE HOSTEL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297124
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FAKE TAXI
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FAKE TAXI,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297125
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FAMILY STROKES
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FAMILY STROKES,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297126
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FEMALE AGENT
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FEMALE AGENT,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297128
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FEMALE FAKE TAXI
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FEMALE FAKE TAXI,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297129
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - FORGIVE ME FATHER
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - FORGIVE ME FATHER,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297130
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - GF REGENVE
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - GF REGENVE,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297131
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - JAYS POV
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - JAYS POV,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297132
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - LETS DO IT
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - LETS DO IT,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297133
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - LIFE SELECTOR
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - LIFE SELECTOR,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297134
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MIKES APARTMENT
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MIKES APARTMENT,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297136
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MILE HIGH
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MILE HIGH,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297137
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MOFOS B SIDES
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MOFOS B SIDES,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297138
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MOFOS LAB
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MOFOS LAB,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297139
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MOM TEACH SEX
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MOM TEACH SEX,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297140
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MONEY TALKS
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MONEY TALKS,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297141
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MY FAMILY PIES
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MY FAMILY PIES,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297142
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MY PERVY FAMILY
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MY PERVY FAMILY,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297143
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MY VERY FIRST TIME
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MY VERY FIRST TIME,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297144
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - MYLF
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - MYLF,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297145
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - NANNY SPY
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - NANNY SPY,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297146
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - NUBILE FILMS
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - NUBILE FILMS,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297147
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - OFFICE OBSESSION
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - OFFICE OBSESSION,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297148
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - PERV MOM
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - PERV MOM,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297149
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - PERVS ON PATROL
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - PERVS ON PATROL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297150
-#EXTINF:0 tvg-id="aztv" group-title="Iran", VODX - PORNHOCHIC
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, VODX - PORNHOCHIC,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297135
-#EXTINF:0 tvg-id="aztv" group-title="Iran", W4B
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, W4B,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296977
-#EXTINF:0 tvg-id="aztv" group-title="Iran", X Bizarre
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, X Bizarre,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3313
-#EXTINF:0 tvg-id="aztv" group-title="Iran", X Bunga Bunga
+#EXTINF:0 tvg-id=“aztv” group-title=“Iran”, X Bunga Bunga,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3315
-X-MO.nlXXX: X-MO
+X-MO.nl,XXX: X-MO,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297028
-xxlXXX: XXL
+xxl,XXX: XXL,
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3298

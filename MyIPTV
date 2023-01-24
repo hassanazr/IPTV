@@ -23,46 +23,46 @@ http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",El TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194303
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ELTV
-http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ANT TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/199097
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",anT  
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az Star TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278505
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az star 2
-http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Dunya TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/683
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kepez TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/58976
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",KAPAZ
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qabala TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279670
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Mugan TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285961
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muğan TV  
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Vostok TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296914
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Baku TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/280129
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Real TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/680
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24
-http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",CBC Sport
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290202
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/685
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SahandTV
+http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",anT  
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az star 2
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",KAPAZ
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Mugan TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285961
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Vostok TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296914
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24
+http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muz TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296915
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Turan TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296913
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SahandTV
-http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvcat.com
 ------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_1
 http://canli.naxcivantv.az/media/20230101/index.m3u8

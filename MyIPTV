@@ -43,8 +43,8 @@ http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/680
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290202
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/685
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SahandTV
-http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Ir",Sahand TV  
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64954
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ELTV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",anT  

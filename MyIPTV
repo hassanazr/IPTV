@@ -66,6 +66,45 @@ HD,http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB AZ
 http://130.185.236.8:12560/play/a08p
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Turan TV
+----------------------------------------------------------
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT 1 FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/40.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",ATV FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/43.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",KANAL D FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/52.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT AVAZ HD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/66.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT 4K
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/39.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",FOX TV FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/50.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TEVE2 FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/61.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",BEYAZ TV FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/76.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",SHOW TV FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/45.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",STAR TV FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/48.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",SHOW TURK EU
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/21442.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT TURK FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/65.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",SHOW MAX HD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/33566.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",FLASH TV HD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/52724.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",A2 TV FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/60.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/54.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TV8.5 FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/56.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT 2 FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/42.ts
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT TURK FHD
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/65.ts
 -------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",AzTv
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644366

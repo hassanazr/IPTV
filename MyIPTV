@@ -1,48 +1,48 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",AzTv
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/16526
+http://149.255.155.142/AzTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Ictimai TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/684
+http://109.205.166.68/server124/arb/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Medeniyyet TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/676
+http://109.205.166.68/server124/medeniyyet_tv/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxivan
 http://canli.naxcivantv.az/media/ntvlive123.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Space TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/686
+http://109.205.166.68/server124/space_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Xezer TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/23531
+http://109.205.166.68/server124/xazar_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv
-http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby_iptvcat.com
+http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-2
-http://85.132.81.184:8080/atv-2/index.m3u8?checkedby_iptvcat.com
+http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-4
-http://85.132.81.184:8080/atv-4/index.m3u8?checkedby_iptvcat.com
+http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SesTV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
 http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",El TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194303
+http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ANT TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/199097
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az Star TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278505
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Dunya TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/683
+http://213.172.73.170:8081/nimble_live/1129__DunyaTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kepez TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/58976
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qabala TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279670
+https://qebele.tv/live/stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muğan TV  
-http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
+https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Baku TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/280129
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Real TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/680
+https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",CBC Sport
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290202
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/685
+http://109.205.166.68/server124/idman_az/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Sahand TV  
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64954
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ELTV
@@ -54,141 +54,212 @@ http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",KAPAZ
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Mugan TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285961
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Vostok TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296914
+https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",APA TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/722427247
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Konul TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Alvin
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24
-http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby_iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muz TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296915
+HD,http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB AZ
+http://130.185.236.8:12560/play/a08p
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Turan TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296913
+-------------------------------------------------------------
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",AzTv
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644366
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Ictimai TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645378
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Medeniyyet TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645537
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Naxivan
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Space TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644369
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Xezer TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644368
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Atv
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644367
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Atv-2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Atv-4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",SesTV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665896
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Live
+http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",El TV
+http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ANT TV
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Az Star TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Dunya TV
+http://213.172.73.170:8081/nimble_live/1129__DunyaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Qabala TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Muğan TV  
+https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Baku TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721661396
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Real TV
+https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Idman TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645534
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Sahand TV  
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64954
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",anT  
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Az star 2
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",KAPAZ
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645380
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Mugan TV
+https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Yevlax TV
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645381
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Konul TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Alvin
+httphttps://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645379
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ARB24
+HD,http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",TMB AZ
+http://130.185.236.8:12560/play/a08p
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Turan TV
 ------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_1
-http://canli.naxcivantv.az/media/20230101/index.m3u8
+http://canli.naxcivantv.az/media/20230301/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_2
-http://canli.naxcivantv.az/media/20230102/index.m3u8
+http://canli.naxcivantv.az/media/20230302/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_3
-http://canli.naxcivantv.az/media/20230103/index.m3u8
+http://canli.naxcivantv.az/media/20230303/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_4
-http://canli.naxcivantv.az/media/20230104/index.m3u8
+http://canli.naxcivantv.az/media/20230304/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_5
-http://canli.naxcivantv.az/media/20230105/index.m3u8
+http://canli.naxcivantv.az/media/20230305/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_6
-http://canli.naxcivantv.az/media/20230106/index.m3u8
+http://canli.naxcivantv.az/media/20230306/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_7
-http://canli.naxcivantv.az/media/20230107/index.m3u8
+http://canli.naxcivantv.az/media/20230307/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_8
-http://canli.naxcivantv.az/media/20230108/index.m3u8
+http://canli.naxcivantv.az/media/20230308/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_9
-http://canli.naxcivantv.az/media/20230109/index.m3u8
+http://canli.naxcivantv.az/media/20230309/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_10
-http://canli.naxcivantv.az/media/20230110/index.m3u8
+http://canli.naxcivantv.az/media/20230310/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_11
-http://canli.naxcivantv.az/media/20230111/index.m3u8
+http://canli.naxcivantv.az/media/20230311/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_12
-http://canli.naxcivantv.az/media/20230112/index.m3u8
+http://canli.naxcivantv.az/media/20230312/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_13
-http://canli.naxcivantv.az/media/20230113/index.m3u8
+http://canli.naxcivantv.az/media/20230313/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_14
-http://canli.naxcivantv.az/media/20230114/index.m3u8
+http://canli.naxcivantv.az/media/20230314/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_15
-http://canli.naxcivantv.az/media/20230115/index.m3u8
+http://canli.naxcivantv.az/media/20230315/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_16
-http://canli.naxcivantv.az/media/20230116/index.m3u8
+http://canli.naxcivantv.az/media/20230316/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_17
-http://canli.naxcivantv.az/media/20230117/index.m3u8
+http://canli.naxcivantv.az/media/20230317/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_18
-http://canli.naxcivantv.az/media/20230118/index.m3u8
+http://canli.naxcivantv.az/media/20230318/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_19
-http://canli.naxcivantv.az/media/20230119/index.m3u8
+http://canli.naxcivantv.az/media/20230319/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_20
-http://canli.naxcivantv.az/media/20230120/index.m3u8
+http://canli.naxcivantv.az/media/20230320/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_21
-http://canli.naxcivantv.az/media/20230121/index.m3u8
+http://canli.naxcivantv.az/media/20230321/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_22
-http://canli.naxcivantv.az/media/20230122/index.m3u8
+http://canli.naxcivantv.az/media/20230322/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_23
-http://canli.naxcivantv.az/media/20230123/index.m3u8
+http://canli.naxcivantv.az/media/20230323/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_24
-http://canli.naxcivantv.az/media/20230124/index.m3u8
+http://canli.naxcivantv.az/media/20230324/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_25
-http://canli.naxcivantv.az/media/20230125/index.m3u8
+http://canli.naxcivantv.az/media/20230325/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_26
-http://canli.naxcivantv.az/media/20230126/index.m3u8
+http://canli.naxcivantv.az/media/20230326/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_27
-http://canli.naxcivantv.az/media/20230127/index.m3u8
+http://canli.naxcivantv.az/media/20230327/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_28
-http://canli.naxcivantv.az/media/20230128/index.m3u8
+http://canli.naxcivantv.az/media/20230328/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_29
-http://canli.naxcivantv.az/media/20230129/index.m3u8
+http://canli.naxcivantv.az/media/20230329/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_30
-http://canli.naxcivantv.az/media/20230130/index.m3u8
+http://canli.naxcivantv.az/media/20230330/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_31
-http://canli.naxcivantv.az/media/20230131/index.m3u8
+http://canli.naxcivantv.az/media/20230331/index.m3u8
 -------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_1
-http://canli.naxcivantv.az/media/20221201/index.m3u8
+http://canli.naxcivantv.az/media/20230201/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_2
-http://canli.naxcivantv.az/media/20221202/index.m3u8
+http://canli.naxcivantv.az/media/20230202/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_3
-http://canli.naxcivantv.az/media/20221203/index.m3u8
+http://canli.naxcivantv.az/media/20230203/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_4
-http://canli.naxcivantv.az/media/20221204/index.m3u8
+http://canli.naxcivantv.az/media/20230204/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_5
-http://canli.naxcivantv.az/media/20221205/index.m3u8
+http://canli.naxcivantv.az/media/20230205/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_6
-http://canli.naxcivantv.az/media/20221206/index.m3u8
+http://canli.naxcivantv.az/media/20230206/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_7
-http://canli.naxcivantv.az/media/20221207/index.m3u8
+http://canli.naxcivantv.az/media/20230207/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_8
-http://canli.naxcivantv.az/media/20221208/index.m3u8
+http://canli.naxcivantv.az/media/20230208/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_9
-http://canli.naxcivantv.az/media/20221209/index.m3u8
+http://canli.naxcivantv.az/media/20230209/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_10
-http://canli.naxcivantv.az/media/20221210/index.m3u8
+http://canli.naxcivantv.az/media/20230210/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_11
-http://canli.naxcivantv.az/media/20221211/index.m3u8
+http://canli.naxcivantv.az/media/20230211/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_12
-http://canli.naxcivantv.az/media/20221212/index.m3u8
+http://canli.naxcivantv.az/media/20230212/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_13
-http://canli.naxcivantv.az/media/20221213/index.m3u8
+http://canli.naxcivantv.az/media/20230213/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_14
-http://canli.naxcivantv.az/media/20221214/index.m3u8
+http://canli.naxcivantv.az/media/20230214/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_15
-http://canli.naxcivantv.az/media/20221215/index.m3u8
+http://canli.naxcivantv.az/media/20230215/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_16
-http://canli.naxcivantv.az/media/20221216/index.m3u8
+http://canli.naxcivantv.az/media/20230216/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_17
-http://canli.naxcivantv.az/media/20221217/index.m3u8
+http://canli.naxcivantv.az/media/20230217/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_18
-http://canli.naxcivantv.az/media/20221218/index.m3u8
+http://canli.naxcivantv.az/media/20230218/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_19
-http://canli.naxcivantv.az/media/20221219/index.m3u8
+http://canli.naxcivantv.az/media/20230219/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_20
-http://canli.naxcivantv.az/media/20221220/index.m3u8
+http://canli.naxcivantv.az/media/20230220/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_21
-http://canli.naxcivantv.az/media/20221221/index.m3u8
+http://canli.naxcivantv.az/media/20230221/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_22
-http://canli.naxcivantv.az/media/20221222/index.m3u8
+http://canli.naxcivantv.az/media/20230222/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_23
-http://canli.naxcivantv.az/media/20221223/index.m3u8
+http://canli.naxcivantv.az/media/20230223/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_24
-http://canli.naxcivantv.az/media/20221224/index.m3u8
+http://canli.naxcivantv.az/media/20230224/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_25
-http://canli.naxcivantv.az/media/20221225/index.m3u8
+http://canli.naxcivantv.az/media/20230225/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_26
-http://canli.naxcivantv.az/media/20221226/index.m3u8
+http://canli.naxcivantv.az/media/20230226/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_27
-http://canli.naxcivantv.az/media/20221227/index.m3u8
+http://canli.naxcivantv.az/media/20230227/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_28
-http://canli.naxcivantv.az/media/20221228/index.m3u8
+http://canli.naxcivantv.az/media/20230228/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_29
-http://canli.naxcivantv.az/media/20221229/index.m3u8
+http://canli.naxcivantv.az/media/20230229/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_30
-http://canli.naxcivantv.az/media/20221230/index.m3u8
+http://canli.naxcivantv.az/media/20230230/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_31
-http://canli.naxcivantv.az/media/20221231/index.m3u8
+http://canli.naxcivantv.az/media/20230231/index.m3u8
 -----------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Ir",4 kurd
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296245

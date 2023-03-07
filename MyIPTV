@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",AzTv
 http://149.255.155.142/AzTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Ictimai TV
-http://109.205.166.68/server124/arb/index2.m3u8
+http://109.205.166.68/server124/ictimai_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Medeniyyet TV
 http://109.205.166.68/server124/medeniyyet_tv/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxivan
@@ -17,6 +17,8 @@ http://85.132.81.184:8080/atv/index.m3u8
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-4
 http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB
+http://109.205.166.68/server124/arb/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SesTV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
@@ -61,8 +63,8 @@ https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/722427247
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Alvin
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24
-HD,http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24 HD
+http://85.132.81.184:8080/arb/live/index.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB AZ
 http://130.185.236.8:12560/play/a08p
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Turan TV

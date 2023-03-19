@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",AzTv
-http://149.255.155.142/AzTV/tracks-v1a1/mono.m3u8
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644367
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Ictimai TV
 http://109.205.166.68/server124/ictimai_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Medeniyyet TV
@@ -33,30 +33,14 @@ https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
 http://213.172.73.170:8081/nimble_live/1129__DunyaTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qabala TV
-https://qebele.tv/live/stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muğan TV  
 https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Baku TV
 https://rtmp.baku.tv/live/bakutv_540p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Real TV
-https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",CBC Sport
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
 http://109.205.166.68/server124/idman_az/index3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Sahand TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64954
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ELTV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",anT  
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az star 2
-http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",KAPAZ
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Mugan TV
-https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",APA TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/722427247
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Konul TV
@@ -66,47 +50,56 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24 HD
 http://85.132.81.184:8080/arb/live/index.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB AZ
-http://130.185.236.8:12560/play/a08p
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Turan TV
 ----------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT 1 FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/40.ts
+https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",ATV FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/43.ts
+http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/5385
 #EXTINF:0 tvg-id="ext" group-title="Tr",KANAL D FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/52.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",TRT AVAZ HD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/66.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",TRT 4K
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/39.ts
+https://demiroren-live.daioncdn.net/kanald/kanald_360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT AVAZ_1
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",FOX TV FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/50.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",TEVE2 FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/61.ts
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/487?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Tr",Cine 5+
+https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721906649
+#EXTINF:0 tvg-id="ext" group-title="Tr",TEVE2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",BEYAZ TV FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/76.ts
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",SHOW TV FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/45.ts
+https://ciner-live.daioncdn.net/showtv/showtv_360p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",STAR TV FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/48.ts
+https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",SHOW TURK EU
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/21442.ts
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT TURK FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/65.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",SHOW MAX HD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/33566.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",FLASH TV HD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/52724.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",A2 TV FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/60.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/54.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",TV8.5 FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/56.ts
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tr",D MAX FHD
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 INT FHD
+http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/30482
+#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 HD
+http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/27842
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT 2 FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/42.ts
-#EXTINF:0 tvg-id="ext" group-title="Tr",TRT TURK FHD
-http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/65.ts
+http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/27953
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT4K
+http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/38235
+#EXTINF:0 tvg-id="ext" group-title="Tr",TV4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRTBelgesel.tr,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT AVAZ_2
+https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tr",FOX TV FHD_2
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tr",KANAL iSTANBUL HD
+http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Tr",SHOW MAX HD
+
+#EXTINF:0 tvg-id="ext" group-title="Tr",A2 TV FHD
+
 -------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",AzTv
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644366
@@ -302,346 +295,3 @@ http://canli.naxcivantv.az/media/20230230/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan Gecen ay",Ayin_31
 http://canli.naxcivantv.az/media/20230231/index.m3u8
 -----------------------------------------------
-#EXTINF:0 tvg-id="ext" group-title="Ir",4 kurd
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296245
-#EXTINF:0 tvg-id="ext" group-title="Ir",4U TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287450
-#EXTINF:0 tvg-id="ext" group-title="Ir",AABC TV (Armenia)
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/145983
-#EXTINF:0 tvg-id="ext" group-title="Ir",AMG TVhtt
-p://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296244
-#EXTINF:0 tvg-id="ext" group-title="Ir",AVA Family
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5491
-#EXTINF:0 tvg-id="ext" group-title="Ir",AVA Series
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166818
-#EXTINF:0 tvg-id="ext" group-title="Ir",Avang TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287452
-#EXTINF:0 tvg-id="ext" group-title="Ir",Ayeneh TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194243
-#EXTINF:0 tvg-id="ext" group-title="Ir",BBC Persian
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/54278
-#EXTINF:0 tvg-id="ext" group-title="Ir",Bravohtt
-p://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296249
-#EXTINF:0 tvg-id="ext" group-title="Ir",Ganj e Hozour TV
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5484
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM 24B
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166809
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Arabic
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56815
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM AZ
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64976
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Bollywood
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5481
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Classic
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5476
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Comedy
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5418
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Crypto
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296371
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Drama  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/283194
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Film  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166815
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM FIT  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166807
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Food  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/283193
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Junior  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5474
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Kids  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5473
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Latino  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166810
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Life  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5441
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Maxx  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5442
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Mifa+  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279645
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Nature  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166821
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Onyx  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5467
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Property  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/276033
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM River  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5471
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM River+  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279652
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Rubix  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56803
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Rubix+  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5463
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Series  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56816
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Series+  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5462
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM Travel  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64972
-#EXTINF:0 tvg-id="ext" group-title="Ir",GEM TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5459
-#EXTINF:0 tvg-id="ext" group-title="Ir",High Vision  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/280245
-#EXTINF:0 tvg-id="ext" group-title="Ir",Hodhod Farsi TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296713
-#EXTINF:0 tvg-id="ext" group-title="Ir",Honarmandan TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5457
-#EXTINF:0 tvg-id="ext" group-title="Ir",Icnet TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287456
-#EXTINF:0 tvg-id="ext" group-title="Ir",Iran Beauty  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/200369
-#EXTINF:0 tvg-id="ext" group-title="Ir",Iran International  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5444
-#EXTINF:0 tvg-id="ext" group-title="Ir",Iranefarda TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5445
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 1  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5492
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 2  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5387
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 3  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5386
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 3 satellite  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296739
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 4  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56814
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB 5  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56817
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Abadan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285275
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Aflak  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/294884
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Aftab  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285284
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Alborz  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196357
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Amouzesh  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21971
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ara  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296434
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Atrak  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296446
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ayam  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285290
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Azarbayjangharbi  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296437
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Baran  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296461
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Bushehr  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296442
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Dena  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296458
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Esfahan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296253
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Eshragh  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296449
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Fars  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296452
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Gardesh  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296435
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Habib  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296702
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Hamoon  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285268
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB IFilm  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285237
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ilam  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285257
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB IRINN  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/169124
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jahanbin  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285259
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jam  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285249
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jamejam 1  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5443
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jamejam 2  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296427
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Jamejam 3  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296428
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Javaneh  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285251
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Kerman  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285270
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ketabnama  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296436
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Khalijefars  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21967
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Khavaran  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296722
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB khoozestan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296448
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Khorasanrazavi  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285280
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Kish  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285272
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Kordestan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64958
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Labbayk  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296704
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Mahabad  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285276
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Mostanad  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296418
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Nama  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296431
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Namayesh  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21949
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Nasim  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/49660
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Nava  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285254
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB News Plus  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296701
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Noor  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296454
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Ofogh  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/182303
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Omid  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296422
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Pooya  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64957
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Qazvin  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285267
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sabalan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285274
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sabz  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296460
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sahand  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296438
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Salamat  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/56823
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Semnan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64953
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sepehr  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285248
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Shoma  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64952
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Sina  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296721
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Taban  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285271
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Tabarestan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296718
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Tamasha  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64949
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Varzesh TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5381
-#EXTINF:0 tvg-id="ext" group-title="Ir",IRIB Zagros  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296457
-#EXTINF:0 tvg-id="ext" group-title="Ir",Israel Pars TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/285642
-#EXTINF:0 tvg-id="ext" group-title="Ir",ITN  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64961
-#EXTINF:0 tvg-id="ext" group-title="Ir",Kalemeh TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/199220
-#EXTINF:0 tvg-id="ext" group-title="Ir",Maah TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287625
-#EXTINF:0 tvg-id="ext" group-title="Ir",manoto  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/98
-#EXTINF:0 tvg-id="ext" group-title="Ir",manoto +1  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/282309
-#EXTINF:0 tvg-id="ext" group-title="Ir",manoto 1080  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/99
-#EXTINF:0 tvg-id="ext" group-title="Ir",MBC Persia  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5435
-#EXTINF:0 tvg-id="ext" group-title="Ir",Mihan TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5431
-#EXTINF:0 tvg-id="ext" group-title="Ir",Mohabat TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5430
-#EXTINF:0 tvg-id="ext" group-title="Ir",My Movie  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287785
-#EXTINF:0 tvg-id="ext" group-title="Ir",Navahang TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196358
-#EXTINF:0 tvg-id="ext" group-title="Ir",Omid Javedan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/18660
-#EXTINF:0 tvg-id="ext" group-title="Ir",Omide Iran  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287460
-#EXTINF:0 tvg-id="ext" group-title="Ir",Oxir TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196367
-#EXTINF:0 tvg-id="ext" group-title="Ir",Parnian TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/197344
-#EXTINF:0 tvg-id="ext" group-title="Ir",Pars TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/194254
-#EXTINF:0 tvg-id="ext" group-title="Ir",Parsiland TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/192085
-#EXTINF:0 tvg-id="ext" group-title="Ir",Payam Javan TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/284220
-#EXTINF:0 tvg-id="ext" group-title="Ir",Payame Aramesh TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166230
-#EXTINF:0 tvg-id="ext" group-title="Ir",Payvand TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5417
-#EXTINF:0 tvg-id="ext" group-title="Ir",PBC Tapesh  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21944
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persian Bazar  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/196369
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persian Film  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287464
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Cinema  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225271
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Classic  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225270
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Comedy  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225267
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Family  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225273
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Game & Tech  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225275
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Iranian  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225276
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Junior  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/279653
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Korea  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287466
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Music  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225266
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Nostalgia  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/225274
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana One  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/165039
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Sonnati  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/296657
-#EXTINF:0 tvg-id="ext" group-title="Ir",Persiana Sports  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287468
-#EXTINF:0 tvg-id="ext" group-title="Ir",PMC  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/21947
-#EXTINF:0 tvg-id="ext" group-title="Ir",PMC Royale  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/283038
-#EXTINF:0 tvg-id="ext" group-title="Ir",Prima TV  h
-ttp://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287784
-#EXTINF:0 tvg-id="ext" group-title="Ir",Radio Farda  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5410
-#EXTINF:0 tvg-id="ext" group-title="Ir",Radio Javan TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5408
-#EXTINF:0 tvg-id="ext" group-title="Ir",Royal Time  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/69536
-#EXTINF:0 tvg-id="ext" group-title="Ir",Sahand TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64954
-#EXTINF:0 tvg-id="ext" group-title="Ir",Sahar Balkan  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287791
-#EXTINF:0 tvg-id="ext" group-title="Ir",Sahar Kurdi  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/14710
-#EXTINF:0 tvg-id="ext" group-title="Ir",Salaam TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/166274
-#EXTINF:0 tvg-id="ext" group-title="Ir",Sat 7 Pars  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5419
-#EXTINF:0 tvg-id="ext" group-title="Ir",Sepanj TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287473
-#EXTINF:0 tvg-id="ext" group-title="Ir",Simaye Azadi  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5398
-#EXTINF:0 tvg-id="ext" group-title="Ir",SL 1  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287469
-#EXTINF:0 tvg-id="ext" group-title="Ir",SL 2  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287470
-#EXTINF:0 tvg-id="ext" group-title="Ir",SNN TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287471
-#EXTINF:0 tvg-id="ext" group-title="Ir",TAPESH 2  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287474
-#EXTINF:0 tvg-id="ext" group-title="Ir",TIN TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5391
-#EXTINF:0 tvg-id="ext" group-title="Ir",Toonix  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/287475
-#EXTINF:0 tvg-id="ext" group-title="Ir",VOA TV Persian  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5378
---------------------------------------------------------
-#EXTINF:0 tvg-id="ext" group-title="Rus", 4K LIBERTY,
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/297027

@@ -5,22 +5,10 @@ https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644366
 http://109.205.166.68/server124/ictimai_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Medeniyyet TV
 http://109.205.166.68/server124/medeniyyet_tv/index2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxivan
-http://canli.naxcivantv.az/media/ntvlive123.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-2
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-4
-http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB
-http://109.205.166.68/server124/arb/index2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SesTV
-http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
 http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",El TV
@@ -29,12 +17,8 @@ http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az Star TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Dunya TV
-http://213.172.73.170:8081/nimble_live/1129__DunyaTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muğan TV  
-https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Baku TV
 https://rtmp.baku.tv/live/bakutv_540p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
@@ -47,20 +31,25 @@ https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/722427247
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Alvin
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24 HD
-http://85.132.81.184:8080/arb/live/index.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB AZ
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxivan
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-2
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-4
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SesTV
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Dunya TV
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muğan TV 
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24 HD
 ----------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT 1 FHD
 https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tr",ATV FHD
-http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/5385
 #EXTINF:0 tvg-id="ext" group-title="Tr",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_360p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT AVAZ_1
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tr",FOX TV FHD
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/487?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Tr",FOX TV FHD_2
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",Cine 5+
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721906649
 #EXTINF:0 tvg-id="ext" group-title="Tr",TEVE2
@@ -75,52 +64,35 @@ https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT TURK FHD
 https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tr",D MAX FHD
-https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 INT FHD
-http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/30482
-#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 HD
-http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/27842
-#EXTINF:0 tvg-id="ext" group-title="Tr",TRT 2 FHD
-http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/27953
-#EXTINF:0 tvg-id="ext" group-title="Tr",TRT4K
-http://gold.balans12.xyz:50750/Ufcjdnxn010yyturgutabi/e45rf6jfjcj84j004/38235
 #EXTINF:0 tvg-id="ext" group-title="Tr",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRTBelgesel.tr,TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tr",TRT AVAZ_2
-https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tr",FOX TV FHD_2
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Tr",KANAL iSTANBUL HD
-http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
-
+https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",SHOW MAX HD
-
 #EXTINF:0 tvg-id="ext" group-title="Tr",A2 TV FHD
+#EXTINF:0 tvg-id="ext" group-title="Tr",ATV FHD
+#EXTINF:0 tvg-id="ext" group-title="Tr",D MAX FHD
+#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 INT FHD
+#EXTINF:0 tvg-id="ext" group-title="Tr",TV8 HD
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="Tr",TRT4K
 
 -------------------------------------------------------------
+
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",AzTv
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644366
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Ictimai TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645378
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Medeniyyet TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645537
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Naxivan
-http://canli.naxcivantv.az/media/ntvlive123.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Space TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644369
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Xezer TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644368
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Atv
-https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644367
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Atv-2
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Atv-4
-http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",SesTV
-https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665896
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Live
 http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",El TV
@@ -129,8 +101,6 @@ http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Az Star TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Dunya TV
-http://213.172.73.170:8081/nimble_live/1129__DunyaTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Qabala TV
@@ -139,14 +109,8 @@ https://qebele.tv/live/stream/index.m3u8
 https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Baku TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721661396
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Real TV
-https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",CBC Sport
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Idman TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645534
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Sahand TV  
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/64954
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ELTV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",anT  
@@ -155,19 +119,13 @@ https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",KAPAZ
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645380
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Mugan TV
-https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w63312070.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Yevlax TV
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645381
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Konul TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Alvin
-httphttps://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721645379
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ARB24
-HD,http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",TMB AZ
-http://130.185.236.8:12560/play/a08p
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Sahand TV  
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Turan TV
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Mugan TV
 ------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Naxicivan",Ayin_1
 http://canli.naxcivantv.az/media/20230701/index.m3u8

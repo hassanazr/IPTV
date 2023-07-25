@@ -31,8 +31,12 @@ https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/722427247
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Alvin
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB AZ
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxivan
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",n1
+https://str1.yodacdn.net/ntv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",n2
+https://str.yodacdn.net/kanal35/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",n3
+https://str.yodacdn.net/naxcivanradio/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-2
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Atv-4
@@ -40,7 +44,7 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SesTV
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Dunya TV
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muğan TV 
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB24 HD
+
 ----------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT 1 FHD
 https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8

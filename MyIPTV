@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",GunazTV
-http://65.21.196.155:80/azerbaijan/gunaz/playlist.m3u
+http://65.21.196.155:80/azerbaijan/gunaz/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ANT TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az Star TV

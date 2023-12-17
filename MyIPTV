@@ -4,7 +4,7 @@ http://65.21.196.155:80/azerbaijan/gunaz/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ANT TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az Star TV
-http://live.livestreamtv.ca:80/azstar/azstar/playlist.m3
+http://live.livestreamtv.ca:80/azstar/azstar/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxcivan
 http://95.217.196.109:8081/azerbaijan/naxcivan/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",AzTv

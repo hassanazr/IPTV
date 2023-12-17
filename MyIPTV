@@ -7,6 +7,8 @@ https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 http://live.livestreamtv.ca:80/azstar/azstar/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxcivan
 http://95.217.196.109:8081/azerbaijan/naxcivan/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",AzTv
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644366
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Ictimai TV
@@ -17,20 +19,14 @@ http://109.205.166.68/server124/medeniyyet_tv/index2.m3u8
 http://109.205.166.68/server124/space_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
-http://95.217.196.109:8081/azerbaijan/livetv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Umid TV
 http://cdn1-umudtv.yayin.com.tr:80/umudtv/ngrp:umudtv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",FTV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",APA TV
-http://rtmp.apa.tv:80/@pagroup!23.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SHOW Plus
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kanal 35
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Gem AZ HD
-http://www.premiumiptvmk.com:8080/live/adastream/J2DVrYWnpTu3Sk4W/64976.ts
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Vostok Tv
 http://65.21.196.155:80/azerbaijan/vostok/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",
@@ -38,16 +34,24 @@ http://65.21.196.155:80/azerbaijan/vostok/playlist.m3u8
 http://rtmp.baku.tv:80/live/bakutv_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
-http://109.205.166.68/server124/idman_az/index3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Konul TV
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Alvin
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qafkaz
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
+http://95.217.196.109:8081/azerbaijan/livetv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Gem AZ HD
+http://www.premiumiptvmk.com:8080/live/adastream/J2DVrYWnpTu3Sk4W/64976.ts
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qebele TV
 https://qebele.tv/live/stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",APA TV
+http://rtmp.apa.tv:80/@pagroup!23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Konul TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
+http://109.205.166.68/server124/idman_az/index3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TRT Avaz
+http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/66.ts
 ----------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT 1 FHD
 https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
@@ -133,11 +137,11 @@ https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721665895
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Turan TV
 https://donvolga.com/Turan-TV/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",El TV
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",El TV
 http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ELTV
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",ELTV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan2",Idman
 http://213.239.195.222:80/azerbaijan/idman_stream_s
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB AZ
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxivan

@@ -19,6 +19,8 @@ http://109.205.166.68/server124/medeniyyet_tv/index2.m3u8
 http://109.205.166.68/server124/space_tv/index3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
+http://95.217.196.109:8081/azerbaijan/livetv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Umid TV
 http://cdn1-umudtv.yayin.com.tr:80/umudtv/ngrp:umudtv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",FTV
@@ -40,8 +42,6 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Konul TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
-http://95.217.196.109:8081/azerbaijan/livetv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Gem AZ HD
 http://www.premiumiptvmk.com:8080/live/adastream/J2DVrYWnpTu3Sk4W/64976.ts
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qebele TV
@@ -49,7 +49,7 @@ https://qebele.tv/live/stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",APA TV
 http://rtmp.apa.tv:80/@pagroup!23.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
-http://109.205.166.68/server124/idman_az/index3.m3u8
+http://213.239.195.222:80/azerbaijan/idman_stream_sd_2023/playlist.m3u8
 
 ----------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT 1 FHD

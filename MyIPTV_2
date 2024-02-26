@@ -1,384 +1,274 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Без группы",📍https://t.me/iptvdunyasiaz
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",🛡️ Rəhim Kərimov
-http://iptv.prosto.tv:7000/ch328/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️AZTV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",AZTV
 http://88.99.66.6:8080/str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️AZTV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",AZTV🔸
 http://185.32.44.154:80/aztv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Ictimai TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Ictimai TV
 https://edge02.odtv.az/o1/ictimai/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Ictimai TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Ictimai TV🔸
 http://edge02.odtv.az/o1/ictimai/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Space TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Space TV
 http://88.99.66.6:8080/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Space TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Space TV🔸
 http://edge02.odtv.az/o1/space/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ATV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ATV
 http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ATV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ATV🔸
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Xəzər TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Xəzər TV
 http://88.99.66.6:8080/str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Xəzər TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Xəzər TV🔸
 http://185.32.44.154:80/xezertv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️GünAz TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",GünAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️CBC
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",CBC
 http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️CBC🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",CBC🔸
 http://edge02.odtv.az/o1/cbc/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ARB TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ARB TV
 http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ARB TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ARB TV🔸
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ARB 24
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ARB 24
 http://88.99.66.6:8080/str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ARB 24🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ARB 24🔸
 http://edge02.odtv.az/o7/arb24/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Mədəniyyət TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Mədəniyyət TV
 http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Mədəniyyət TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Mədəniyyət TV🔸
 http://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ARB Günəş
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ARB Günəş
 http://88.99.66.6:8080/str.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ARB Günəş🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ARB Günəş🔸
 http://185.32.44.154:80/arbgunesh/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Idman TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Idman TV
 http://str.yodacdn.net/idman/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Idman TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Idman TV🔸
 http://185.32.44.154:80/idmanaz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️CBC SPORT HD
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",CBC SPORT HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️CBC SPORT HD🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",CBC SPORT HD🔸
 http://185.32.44.154:80/cbcsporthd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️MTV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",MTV
 http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️MTV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",MTV🔸
 http://185.32.44.154:80/muztvaz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Dünya TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Dünya TV
 http://149.255.152.199/dunya.m3u8?user=37076&token=5f4fbb04b5c4e8234ab4a7200136a619&e=1708452304&bands=796.2096&sid=coder_53
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Dünya TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Dünya TV🔸
 http://185.32.44.154:80/dunyatv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Səhiyyə TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Səhiyyə TV
 http://88.99.66.6:8080/str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0 tvg-id="ext" group-title="🇦🇿",Səhiyyə TV🔸
 http://185.32.44.154:80/sehiyye/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ARB Kəpəz
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ARB Kəpəz
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Qafqaz TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Real TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Real TV
 http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Real TV🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Real TV🔸
 http://edge02.odtv.az/o2/realtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Vilayət TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Vilayət TV
 https://nl.livekadeh.com/hls2/vilayet_high.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Naxçıvan
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Naxçıvan
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️KTV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",KTV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Baku TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Baku TV
 https://rtmp.baku.tv/streams/bakutv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Live TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Live TV
 http://213.239.195.222:80/azerbaijan/livetv2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️VIP HD
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",VIP HD
 http://88.99.66.6:8080/str.yodacdn.net/vip/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️FTV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",FTV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️ELTV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",ELTV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️APA TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",APA TV
 http://rtmp.apa.tv:80/@pagroup!23.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️AzNews TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",AzNews TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️AzStar TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",AzStar TV
 http://live.livestreamtv.ca:80/azstar/azstar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Alvin Channel
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr:80/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Alvin Ovçu
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Alvin Ovçu
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=39200&token=e369b2dbd65fcd56122d2d3faf774a0a&server=v2.catcast.tv
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️SHOW Plus
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",SHOW Plus
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Kanal S
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Kanal S
 https://api1.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=d0c3db4860913eb7824f52dd1eb1ca361e43fb0e-b5142f1be2951ec03f2a6cea34c584b8-1675939786-1675928986
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Kanal S 🔸
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Kanal S 🔸
 http://213.172.73.174:8081/nimble_live/10214_Kanal_S/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Kanal 35
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Kanal 35
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Agro TV Azerbaijan
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Agro TV Azerbaijan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w758555833.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Hadi TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Hadi TV
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️TMB
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",TMB
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️GEM AZ
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",GEM AZ
 http://50.7.218.122:8080/gemaz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Vostok TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Vostok TV
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️SƏS TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",SƏS TV
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Ümid TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Ümid TV
 http://cdn1-umudtv.yayin.com.tr:80/umudtv/ngrp:umudtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️İsmayıllı TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",İsmayıllı TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailtv/chunklist_w273808844.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Yardımlı TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Yardımlı TV
 https://rpn3.bozztv.com/ssh101/ssh101/yardimlitv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️MCJ TV SHOP
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",MCJ TV SHOP
 http://149.255.152.199/mcj.m3u8?user=37076&token=ae2a2faf2fd8780f08e6a9d939886fad&e=1708523640&bands=796.2096.6096&sid=coder_66
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️RİHAT TV
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",RİHAT TV
 https://rpn3.bozztv.com/ssh101/ssh101/tvrihat1/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Şahdağ live kamera 1
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Şahdağ live kamera 1
 https://user85481.clients-cdnnow.ru/hls/user85481_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Şahdağ live camera 2
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Şahdağ live camera 2
 https://user85481.clients-cdnnow.ru/hls/user85481_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Şahdağ live camera 3
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Şahdağ live camera 3
 https://user85481.clients-cdnnow.ru/hls/user85481_3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇿",⚜️Şahdağ live camera 4
+#EXTINF:0 tvg-id="ext" group-title="🇦🇿",Şahdağ live camera 4
 https://user85481.clients-cdnnow.ru/hls/user85481_4/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TRT 1
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TRT 2
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️ATV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",ATV
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️KANAL D
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️SHOW TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️FOX TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️STAR TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",STAR TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEYAZ TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEYAZ TV
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TV 8
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TV 8`5
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TV 8`5
 http://50.7.218.122:8080/tv85/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️KANAL 7
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️360 TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",360 TV
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TELE 1
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TEVE2
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TEVE2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️A2 TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",A2 TV
 http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TV 4 HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TV 4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TRT TURK
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TeleOn
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TeleOn
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️AFYON TURK
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",AFYON TURK
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️EURO D HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",EURO D HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748900
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️EURO STAR HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",EURO STAR HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748914
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️ATV AVRUPA HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",ATV AVRUPA HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748947
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TV 8 Int HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TV 8 Int HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748920
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️SHOW TURK HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",SHOW TURK HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749131
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️KANAL 7 AVRUPA HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",KANAL 7 AVRUPA HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748947
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️SHOW MAX HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",SHOW MAX HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749232
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TGRT BELGESEL
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TGRT BELGESEL
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749581
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TRT BELGESEL
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TRT BELGESEL
 https://trtbelgesel.blutv.com/blutv_trtbelgesel2/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️DMAX
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",DMAX
 https://dmax.blutv.com/blutv_dmax2/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TARIH TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TARIH TV
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749345
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️AGRO TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",AGRO TV
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749056
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️YABAN TV HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",YABAN TV HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749011
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️CIFTCI TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",CIFTCI TV
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749566
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️TLC TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",TLC TV
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN GURME HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN GURME HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748939
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️IZ TV
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",IZ TV
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749375
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️VIASAT EXPLORE HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",VIASAT EXPLORE HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749004
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️VİASAT NATURE HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",VİASAT NATURE HD
 https://node1-az-baku-delta.sweet.tv/stream/xteicas47hsmnud7vf6j45p4t2zqjanzimq64gzdgw67b7ef6udtiudcf4prgkzcevt7y8xywhc7jwymzcdykk3ng9mry6pwwwyy7n3ypbij4rrtwazxqd75x87rqwziv7p7vmm4q7wnfdar2kf826v3xb59xuxbtkbs====.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️VIASAT HISTORY HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",VIASAT HISTORY HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749175
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️NATIONAL GEOGRAPHIC HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",NATIONAL GEOGRAPHIC HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748944
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️HISTORY
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",HISTORY
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748930
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️DA VINCI LEARNING
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",DA VINCI LEARNING
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749077
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BBC EARTH HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BBC EARTH HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748921
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️LOVE NATURE HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",LOVE NATURE HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749163
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️DISCOVERY CHANNEL HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",DISCOVERY CHANNEL HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748863
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️INVESTIGATION DISCOVERY
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",INVESTIGATION DISCOVERY
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749027
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️NAT GEO WILD HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",NAT GEO WILD HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749150
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1 SD (360P)
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1 SD (360P)
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748773
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748753
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1+
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1+
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748756
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1 FEED (720P)
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1 FEED (720P)
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748765
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1 (720PFEED)
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1 (720PFEED)
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748825
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1 (720p)
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1 (720p)
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748754
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1 H265
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1 H265
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748757
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 1 50FPS
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 1 50FPS
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748758
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 4K FEED(3084X2160)
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 4K FEED(3084X2160)
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748760
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 4K FEED (4096X2160)
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 4K FEED (4096X2160)
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748763
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 8K FEED
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 8K FEED
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748908
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 2
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 2
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748752
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 2 HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 2 HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748764
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 2 UHD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 2 UHD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748766
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN SPORTS 2
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN SPORTS 2
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748844
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️EXXEN TV SPOR 1 HD
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",EXXEN TV SPOR 1 HD
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086749324
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN MOVIES TURK
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN MOVIES TURK
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748898
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN MOVIES ACTION
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN MOVIES ACTION
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748772
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN MOVIES FAMILY
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN MOVIES FAMILY
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748804
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN MOVIES STARS
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN MOVIES STARS
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748776
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN MOVIES PREMIERE
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN MOVIES PREMIERE
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748777
-#EXTINF:0 tvg-id="ext" group-title="🇹🇷",♨️BEIN MOVIES PREMIERE 2
+#EXTINF:0 tvg-id="ext" group-title="🇹🇷",BEIN MOVIES PREMIERE 2
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748778
-
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Pretoriadan Qaçış - Escape from Pretoria (2020) HDRip
-https://cdn6.video.az/storage/movie/18/18508/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Ford Ferrariyə Qarşı - Ford v Ferrari (2019) HDRip
-https://cdn6.video.az/storage/movie/19/19444/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Bonni və Klaydın izində - The Highwaymen (2019) HDRip
-https://cdn8.video.az/storage/movie/19/19294/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Sonuncu Samuray - The Last Samurai (2003) HDRip
-https://cdn8.video.az/storage/movie/19/18949/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Səssiz - The Silencing (2020) HDRip
-https://cdn8.video.az/storage/movie/18/18920/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Quş Qutusu - Bird Box (2018) HDRip
-https://cdn8.video.az/storage/movie/18/18779/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Xilasetmə Əməliyyatı - Extraction (2020) HDRip
-https://cdn8.video.az/storage/movie/18/18509/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Vicdanlı Oğru - Honest Thief (2020) HDRip
-https://cdn8.video.az/storage/movie/17/17866/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺21 Körpü - 21 Bridges (2019) HDRip
-https://cdn6.video.az/storage/movie/17/17865/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Astral 4: Sonuncu Açar - Insidious: The Last Key (2018) HDRip
-https://cdn6.video.az/storage/movie/16/16177/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Qrenlandiya - Greenland (2020) HDRip
-https://cdn6.video.az/storage/movie/17/17843/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺47 Metr dərinlikdə 2 - 47 Meters Down: Uncaged (2019) HDRip
-https://cdn6.video.az/storage/movie/17/17741/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Oyuncaq 2: Brams - Brahms: The Boy II (2020) HDRip
-https://cdn8.video.az/storage/movie/17/17658/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Coker - Joker (2019) HDRip
-https://cdn8.video.az/storage/movie/17/17534/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Anna (2019) HDRip
-https://cdn6.video.az/storage/movie/17/17492/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Alfa - Alpha (2018) HDRip
-https://cdn6.video.az/storage/movie/16/16468/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Mumbaydakı Otel - Hotel Mumbai (2018) HDRip
-https://cdn6.video.az/storage/movie/16/16339/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺47 Metr Dərinlikdə - 47 Meters Down (2017) HDRip
-https://cdn6.video.az/storage/movie/16/16123/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="🎬",🔺Səssiz Yer - A Quiet Place (2018) HDRip
-https://cdn8.video.az/storage/movie/15/14873/video.mp4
-
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Первый канал HD
-http://91.207.115.228:5000/c99
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Россия 1 HD
-http://91.207.115.228:5000/c100
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️ТНТ4
-http://91.207.115.228:5000/c100
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️ТНТ HD
-http://91.207.115.228:5000/c157
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️.Black
-http://91.207.115.228:5000/c79
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Моя Планета
-http://91.207.115.228:5000/c82
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Телепутешествия
-http://91.207.115.228:5000/c93
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Big Planet
-http://91.207.115.228:5000/c94
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️viju Explore
-http://91.207.115.228:5000/c95
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️viju History
-http://91.207.115.228:5000/c96
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️viju Nature
-http://91.207.115.228:5000/c97
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Дикий
-http://91.207.115.228:5000/c98
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Рыболов
-http://91.207.115.228:5000/c109
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Discovery Channel HD
-http://91.207.115.228:5000/c146
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Animal Planet HD
-http://91.207.115.228:5000/c147
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Discovery Science HD
-http://91.207.115.228:5000/c148
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Investigation Discovery HD
-http://91.207.115.228:5000/c150
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️HD Life
-http://91.207.115.228:5000/c158
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️История
-http://91.207.115.228:5000/c85
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Домашние Животные
-http://91.207.115.228:5000/c159
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Охота и Рыбалка
-http://91.207.115.228:5000/c173
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Наука
-http://91.207.115.228:5000/c83
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Кинопоказ
-http://91.207.115.228:5000/c28
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Мосфильм. Золотая Коллекция
-http://91.207.115.228:5000/c29
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Дом кино
-http://91.207.115.228:5000/c30
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Русский Роман
-http://91.207.115.228:5000/c32
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Кино ТВ
-http://91.207.115.228:5000/c33
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Русский Бестселлер
-http://91.207.115.228:5000/c34
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Русский Детектив
-http://91.207.115.228:5000/c35
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️365 Дней ТВ
-http://91.207.115.228:5000/c36
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Кинохит
-http://91.207.115.228:5000/c38
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Киносемья
-http://91.207.115.228:5000/c39
-#EXTINF:0 tvg-id="ext" group-title="🇷🇺",✴️Мужское Кино
-http://91.207.115.228:5000/c40

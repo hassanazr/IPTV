@@ -1,55 +1,77 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",GunazTV
-http://65.21.196.155:80/azerbaijan/gunaz/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ANT TV
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az Star TV
 http://live.livestreamtv.ca:80/azstar/azstar/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Naxcivan
-http://95.217.196.109:8081/azerbaijan/naxcivan/playlist.m3u8
+http://stream.tvcdn.net/azerbaycan/naxcivan-tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",AzTv
-https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/721644366
+http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Ictimai TV
-http://109.205.166.68/server124/ictimai_tv/index3.m3u8
+http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Medeniyyet TV
-http://109.205.166.68/server124/medeniyyet_tv/index2.m3u8
+http://stream.tvcdn.net/azerbaycan/medeniyyet-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB
+http://stream.tvcdn.net/azerbaycan/arb.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Space TV
-http://109.205.166.68/server124/space_tv/index3.m3u8
+http://stream.tvcdn.net/azerbaycan/space-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ATV
+http://stream.tvcdn.net/azerbaycan/azad-tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Xezer TV
-http://109.205.166.68/server124/xazar_tv/index3.m3u8
+http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Live
-http://95.217.196.109:8081/azerbaijan/livetv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Umid TV
-http://cdn1-umudtv.yayin.com.tr:80/umudtv/ngrp:umudtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",FTV
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",VIP HD
+http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SHOW Plus
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kanal 35
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Vostok Tv
-http://65.21.196.155:80/azerbaijan/vostok/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Baku TV
 http://rtmp.baku.tv:80/live/bakutv_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kepez TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Alvin
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qafkaz
-http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Ses TV
+http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Konul TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Gem AZ HD
-http://www.premiumiptvmk.com:8080/live/adastream/J2DVrYWnpTu3Sk4W/64976.ts
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Qebele TV
-https://qebele.tv/live/stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Azerbaycan",APA TV
 http://rtmp.apa.tv:80/@pagroup!23.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Idman TV
-http://213.239.195.222:80/azerbaijan/idman_stream_sd_2023/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Start TV
+http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",TMB Azerbaycan
+http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Agro TV Azerbaycan
+http://stream.tvcdn.net/azerbaycan/agro-tv-azerbaycan.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Dünya TV
+http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Farrukh TV
+http://stream.tvcdn.net/azerbaycan/farrukh-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Az Star TV
+http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",MCJ TV Shop
+http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Muz TV Azerbaycan
+http://stream.tvcdn.net/azerbaycan/muz-tv-azerbaycan.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Sehiyye TV
+http://stream.tvcdn.net/azerbaycan/sehiyye-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Apa TV
+http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",ARB 24
+http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Baku TV
+http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Real TV
+http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",Kanal S
+http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan",SHOW PLUS TV
+http://str.yodacdn.net/showplus/index.m3u8
 
 ----------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRT 1 FHD
@@ -161,6 +183,204 @@ https://m3u-editor.com/serve/ebe47240-81d1-11ed-be63-c18b24483bf5/722427247
 http://vipabm.com:8080/live/recepozancelik/VZk2XTDb6SNS/66.ts
 ------------------------------------------------------------
 
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",AzTV-2
+https://hw2.jemtv.com/app/aztv1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",MƏdƏniyyƏt TV
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",MƏdƏniyyƏt TV-2
+http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",MƏdƏniyyƏt TV-3
+http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+IdmanAzerbaycan 3.tr,İdman TV
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",İdman TV-2
+http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
+Ictimaitv.az,İctimai TV
+https://edge02.odtv.az/o1/ictimai/playlist.m3u8|User-agent=ExoPlayer2/2.37
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",İctimai TV HD
+http://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",İctimai TV HD-2
+https://hw2.jemtv.com/app/ict/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",İctimai TV HD-3
+http://135.181.115.81:8000/play/a01n/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Azad Azərbaycan HD
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Azad Azərbaycan HD-2
+https://hw2.jemtv.com/app/azad/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Azad Azərbaycan HD-3
+http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Azad Azərbaycan HD-4
+http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ATV CINEMA
+http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ATV CINEMA-2,
+http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/2120/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ATV VIVACE,
+http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16068/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ATV VIVACE-2,
+http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/16068/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB HD,
+http://stream.tvcdn.net/Azerbaycan 3/arb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB HD-2,
+http://edge02.odtv.az/o1/arbtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB HD-3,
+http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB Günəş,
+http://stream.tvcdn.net/Azerbaycan 3/arb-gunes.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB Günəş-2,
+http://88.99.66.6:8080/str.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB 24 HD,
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB 24 HD-2,
+http://185.32.44.154/arb24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ARB 24 HD-3,
+http://88.99.66.6:8080/str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Kəpəz TV,
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Kanal S,
+http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Kanal S-2,
+http://88.99.66.6:8080/str.yodacdn.net/start/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Xəzər TV HD,
+http://str.yodacdn.net/xazar/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Xəzər TV HD-2,
+http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Xəzər TV HD-3,
+http://88.99.66.6:8080/str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Space TV,
+http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Space TV-2,
+http://88.99.66.6:8080/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+muz-tv,Muz TV,http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Real TV HD,
+http://str.yodacdn.net/real/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Real TV HD-2,
+http://185.32.44.154/realtv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Real TV HD-3,
+http://edge02.odtv.az/o2/realtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Real TV HD-4,
+http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Qafqaz TV,
+http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Qəbələ TV,
+https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",AS TV,http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Baku TV,
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Baku TV-2,
+http://88.99.66.6:8080/str.yodacdn.net/bakutv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",CBC TV,http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",CBC Sport,
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",CBC Sport-2,
+http://88.99.66.6:8080/str.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddd
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",CBC Sport-3,
+http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",CBC Sport-4,
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",APA TV,
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",APA TV-2,
+http://88.99.66.6:8080/str.yodacdn.net/apatv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Səhiyyə TV,
+http://185.32.44.154/sehiyye/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Səhiyyə TV-2,
+http://88.99.66.6:8080/str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",EL TV,
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Dünya TV,
+http://stream.tvcdn.net/Azerbaycan 3/dunya-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Alvin Channel,
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Live TV,
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Live TV-2,
+https://st2.mediabay.tv/LIVETV_Azer/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Könül TV,
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Naxçıvan TV,
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Kanal 35,
+http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",SHOW PLUS TV,
+http://str.yodacdn.net/showplus/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",SHOW PLUS TV-2,
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",SHOW PLUS TV-3,
+http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+fashion,FTV,https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",GEMAZ TV,
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
+vostok,VOSTOK TV,http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",VOSTOK TV-2,
+http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",TMB AZ TV,
+http://stream.tvcdn.net/Azerbaycan 3/tmb-Azerbaycan 3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",TMB AZ TV-2,
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",AYAZ TV,
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Azad Söz Az TV,
+https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Səs TV,
+http://stream.tvcdn.net/Azerbaycan 3/ses-tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",AGRO TV Azərbaycan,
+https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",AGRO TV Azərbaycan-2,
+http://88.99.66.6:8080/str.yodacdn.net/agrotv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",SƏHƏR TV,
+https://hw2.jemtv.com/app/azeri/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Vilayət TV,https://hls.nl2.livekadeh.com/hls2/vilayet_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",MCJ TV Shopping,
+http://stream.tvcdn.net/Azerbaycan 3/mcj-tv-shop.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",VIP Azerbaijan,
+http://stream.tvcdn.net/Azerbaycan 3/vip-hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",VIP Azerbaijan-2,
+http://88.99.66.6:8080/str.yodacdn.net/vip/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",K@TV 1,
+http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",K@TV 1,
+http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Esma TV,
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+TTV.PL,TTV,https://tivi191.ozelip.com:3016/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",TTV SINEMA,
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",TTV KIDS,
+https://ttvkids.efir.com.tr:3014/stream/play.m3u8
+NewTV.gr,NEW TV,https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Ulduz TV,
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",ŞİRVAN TV,
+https://sirvantv.efir.com.tr:3369/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",DALĞA TV,
+https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",RİHAT TV,
+https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
+mega,MEGA TV,https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",MEGA-2 TV,
+https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",MEGA MUSIC TV,https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Sərxan TV,
+https://stvaz.efir.com.tr:3815/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",HTV SİNEMA,
+https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Arı Music TV,
+https://tv170.radyotelekom.com.tr:21764/arimusic/arimusic/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Arı Muğam TV,
+http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
+ctv,CTV,https://spectrectvmedya44.interweb.com.tr:3466/multi_web/play_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",CTV Uşaq,https://ctvusaq.efir.com.tr:3114/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Sirius TV,https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Şahdağ Camera 1,
+https://user85481.clients-cdnnow.ru/hls/user85481_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Şahdağ Camera 2,
+https://user85481.clients-cdnnow.ru/hls/user85481_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaycan 3",Şahdağ Camera 3,https://user85481.clients-cdnnow.ru/hls/user85481_3/index.m3u8
+
+------------------------------------------------------------
+
+
 #EXTINF:0 tvg-id="ext" group-title="News",EuroNews
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",CNN
@@ -193,3 +413,4 @@ https://kjhls.wns.live/hls/stream.m3u8
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="IR",Omid
 https://oitnhls.wns.live/hls/stream.m3u8
+

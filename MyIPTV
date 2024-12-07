@@ -235,16 +235,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Tr",TRTBelgesel.tr,TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_360.m3u8
 
--------------------------------------------------------------
-
-
-------------------------------------------------------------
-
-
-
-
-------------------------------------------------------------
-
+---------------------------------------------------------
 
 #EXTINF:0 tvg-id="ext" group-title="News",EuroNews
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
